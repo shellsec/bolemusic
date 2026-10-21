@@ -44,13 +44,24 @@
 
 ![Switch 主菜单中的 BoleMusic NS 图标入口](docs/screenshots/switch-home-menu.jpg)
 
-上图展示安装转发器后的主菜单入口；复制 NRO 后可直接从 Homebrew Menu 启动，主菜单入口需要另行安装转发器。
+上图展示安装转发器后的主菜单入口。NRO 已内置入口安装功能，可在「我的 → 关于 → 安装主菜单入口」中安装，无需另行下载 NSP。
 
 ## 开始使用
 
-将 `bolemusic.nro` 放入 SD 卡的 `/switch/` 目录，通过 Homebrew Menu 启动。首次启动后，先在设置中导入自己的自定义源，再开始播放。
+将 `bolemusic.nro` 放到 SD 卡的 `/switch/bolemusic/bolemusic.nro`，通过 Homebrew Menu 启动。首次启动后，先在设置中导入自己的自定义源，再开始播放。
 
 进入氛围页面可点击主页播放区的歌曲封面。氛围页面支持切歌、播放／暂停和切换场景；隐藏界面后，轻触屏幕可唤回控制。
+
+## 安装主菜单入口（转发器）
+
+1. 先从 Homebrew Menu 启动 `bolemusic.nro`。
+2. 在主页点击「我的」，进入「关于」。
+3. 点击「安装主菜单入口」，阅读提示并确认安装，等待完成。
+4. 返回 Switch 主菜单，即可通过 BoleMusic NS 图标启动播放器。
+
+当前 NRO 已内嵌转发器，安装时会将正在运行的 NRO 复制到 `sdmc:/switch/bolemusic/bolemusic.nro`；无需额外下载 NSP 或卡包。入口需要兼容的自制系统环境，安装期间请勿断电或拔卡。
+
+转发器只是启动入口，播放器仍从 SD 卡读取。以后更新请替换 `/switch/bolemusic/bolemusic.nro`，不要移动或改名。若首次启动的安装提示选择了「稍后」，仍可随时通过「我的 → 关于」手动安装。
 
 ## 导入自定义源
 
