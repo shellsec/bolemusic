@@ -1,0 +1,23 @@
+BoleMusic NS
+Modified by shellsec and contributors, 2026.
+
+This Nintendo Switch adaptation is based on the LX Music custom-source protocol
+and adaptations of the associated implementation from:
+  LX Music Desktop, by lyswhut and contributors
+  https://github.com/lyswhut/lx-music-desktop
+The upstream Apache License, Version 2.0 is retained verbatim in LICENSE.
+Original copyright notices in retained upstream files remain in place.
+This is an unofficial derivative/adaptation, not an endorsed upstream release.
+
+Changes dated 2026-10-21:
+- Removed all bundled source scripts, presets, recommended endpoints and links.
+- Fresh installs load no sources; only explicit user imports are registered.
+- Added opt-in multi-source failover, persisted user order, and saved subscriptions
+  with an empty default URL. Exhausted playback may check the user subscription
+  once, with a ten-minute cooldown and one extra retry round only on changes.
+- Added script-free RomFS staging and release regression checks.
+- Replaced source-specific documentation and removed legacy promotional material.
+
+The Switch UI uses Borealis (Apache-2.0), copyright its original contributors.
+QuickJS, FFmpeg, libnx and other bundled dependencies retain their own licenses.
+This notice does not relicense third-party components or grant music rights.
