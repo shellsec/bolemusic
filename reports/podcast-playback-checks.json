@@ -1,0 +1,231 @@
+{
+  "scope": "Host verification only; no Switch or China-network certification",
+  "hardware_tested": false,
+  "priority_audio_samples": {
+    "scope": "Host bounded sample decode; no full-episode or Switch certification",
+    "results": [
+      {
+        "id": "rss-1fa4ba19b741d0c5",
+        "name": "原来是这样 Dscience",
+        "scope": "host FFmpeg decode of first episode using bounded audio samples; not Switch",
+        "passed": true,
+        "pcm_bytes": 384000,
+        "type": "audio/mpeg",
+        "downloaded_initial_bytes": 1048576,
+        "episode_bytes": 31754449,
+        "error": ""
+      },
+      {
+        "id": "rss-26beae9404209f3d",
+        "name": "科学史评话最新专辑",
+        "scope": "host FFmpeg decode of first episode using bounded audio samples; not Switch",
+        "passed": true,
+        "pcm_bytes": 384000,
+        "type": "audio/x-m4a",
+        "downloaded_initial_bytes": 3700988,
+        "episode_bytes": 3700988,
+        "error": ""
+      },
+      {
+        "id": "rss-4631236d96f34fab",
+        "name": "看理想圆桌",
+        "scope": "host FFmpeg decode of first episode using bounded audio samples; not Switch",
+        "passed": true,
+        "pcm_bytes": 384000,
+        "type": "audio/mp3",
+        "downloaded_initial_bytes": 1048576,
+        "episode_bytes": 80164561,
+        "error": ""
+      },
+      {
+        "id": "rss-7aa57bbddb1ff4a0",
+        "name": "读库立体声",
+        "scope": "host FFmpeg decode of first episode using bounded audio samples; not Switch",
+        "passed": true,
+        "pcm_bytes": 384000,
+        "type": "audio/mp4",
+        "downloaded_initial_bytes": 4194304,
+        "episode_bytes": 260228252,
+        "error": ""
+      },
+      {
+        "id": "rss-2b544eae143d7f70",
+        "name": "American Stories - VOA Learning English",
+        "scope": "host FFmpeg decode of first episode using bounded audio samples; not Switch",
+        "passed": true,
+        "pcm_bytes": 384000,
+        "type": "audio/mpeg",
+        "downloaded_initial_bytes": 1048576,
+        "episode_bytes": 7453207,
+        "error": ""
+      },
+      {
+        "id": "rss-2da4008475990d18",
+        "name": "Business English from All Ears English",
+        "scope": "host FFmpeg decode of first episode using bounded audio samples; not Switch",
+        "passed": true,
+        "pcm_bytes": 384000,
+        "type": "audio/mpeg",
+        "downloaded_initial_bytes": 1048576,
+        "episode_bytes": 31492137,
+        "error": ""
+      },
+      {
+        "id": "rss-35a4c2914c5cd3f0",
+        "name": "All Ears English Podcast",
+        "scope": "host FFmpeg decode of first episode using bounded audio samples; not Switch",
+        "passed": true,
+        "pcm_bytes": 384000,
+        "type": "audio/mpeg",
+        "downloaded_initial_bytes": 1048576,
+        "episode_bytes": 37313991,
+        "error": ""
+      },
+      {
+        "id": "rss-3d7cb8189b84b110",
+        "name": "Easy Stories in English",
+        "scope": "host FFmpeg decode of first episode using bounded audio samples; not Switch",
+        "passed": true,
+        "pcm_bytes": 384000,
+        "type": "audio/mpeg",
+        "downloaded_initial_bytes": 1048576,
+        "episode_bytes": 38859013,
+        "error": ""
+      },
+      {
+        "id": "rss-51c6c8be778b1473",
+        "name": "Luke's ENGLISH Podcast - Learn British English with Luke Thompson",
+        "scope": "host FFmpeg decode of first episode using bounded audio samples; not Switch",
+        "passed": true,
+        "pcm_bytes": 384000,
+        "type": "audio/mpeg",
+        "downloaded_initial_bytes": 1048576,
+        "episode_bytes": 72731630,
+        "error": ""
+      },
+      {
+        "id": "rss-5c39461e474b38d5",
+        "name": "IELTS Energy English 7+",
+        "scope": "host FFmpeg decode of first episode using bounded audio samples; not Switch",
+        "passed": true,
+        "pcm_bytes": 384000,
+        "type": "audio/mpeg",
+        "downloaded_initial_bytes": 1048576,
+        "episode_bytes": 47666849,
+        "error": ""
+      },
+      {
+        "id": "rss-716b81a97ac4581f",
+        "name": "Culips Everyday English Podcast",
+        "scope": "host FFmpeg decode of first episode using bounded audio samples; not Switch",
+        "passed": true,
+        "pcm_bytes": 384000,
+        "type": "audio/mpeg",
+        "downloaded_initial_bytes": 1048576,
+        "episode_bytes": 11168043,
+        "error": ""
+      },
+      {
+        "id": "rss-a99d433de6b702c3",
+        "name": "Plain English",
+        "scope": "host FFmpeg decode of first episode using bounded audio samples; not Switch",
+        "passed": true,
+        "pcm_bytes": 384000,
+        "type": "audio/mpeg",
+        "downloaded_initial_bytes": 1048576,
+        "episode_bytes": 31132315,
+        "error": ""
+      },
+      {
+        "id": "rss-df04d40a0bc62dc9",
+        "name": "English Learning for Curious Minds | A More Interesting Way To Learn English",
+        "scope": "host FFmpeg decode of first episode using bounded audio samples; not Switch",
+        "passed": true,
+        "pcm_bytes": 384000,
+        "type": "audio/mpeg",
+        "downloaded_initial_bytes": 1048576,
+        "episode_bytes": 26567404,
+        "error": ""
+      },
+      {
+        "id": "rss-316e218df50cc78f",
+        "name": "张小珺Jùn｜商业访谈录",
+        "scope": "host FFmpeg decode of first episode using bounded audio samples; not Switch",
+        "passed": true,
+        "pcm_bytes": 384000,
+        "type": "audio/mp4",
+        "downloaded_initial_bytes": 4194304,
+        "episode_bytes": 116309683,
+        "error": ""
+      },
+      {
+        "id": "rss-60be1f01f40ed263",
+        "name": "商业WHY酱",
+        "scope": "host FFmpeg decode of first episode using bounded audio samples; not Switch",
+        "passed": true,
+        "pcm_bytes": 384000,
+        "type": "audio/mp4",
+        "downloaded_initial_bytes": 4194304,
+        "episode_bytes": 103873162,
+        "error": ""
+      },
+      {
+        "id": "rss-69cfb31c8835147e",
+        "name": "硬地骇客",
+        "scope": "host FFmpeg decode of first episode using bounded audio samples; not Switch",
+        "passed": true,
+        "pcm_bytes": 384000,
+        "type": "audio/mp4",
+        "downloaded_initial_bytes": 1048576,
+        "episode_bytes": 38497889,
+        "error": ""
+      },
+      {
+        "id": "rss-98326abee4285ef2",
+        "name": "声动早咖啡",
+        "scope": "host FFmpeg decode of first episode using bounded audio samples; not Switch",
+        "passed": true,
+        "pcm_bytes": 384000,
+        "type": "audio/x-m4a",
+        "downloaded_initial_bytes": 4194304,
+        "episode_bytes": 7847002,
+        "error": ""
+      },
+      {
+        "id": "rss-d6b6c9a2412a6be4",
+        "name": "半拿铁 | 商业沉浮录",
+        "scope": "host FFmpeg decode of first episode using bounded audio samples; not Switch",
+        "passed": true,
+        "pcm_bytes": 384000,
+        "type": "audio/x-m4a",
+        "downloaded_initial_bytes": 1048576,
+        "episode_bytes": 61359486,
+        "error": ""
+      }
+    ]
+  },
+  "bbc_production_reader": [
+    {
+      "id": "bbc-six-minute",
+      "scope": "host production HttpStream; not Switch device",
+      "reader_exit": 0,
+      "reader": "PASS bytes=3847548 total=3847548 seek=1048576 after_seek=2880\r\n",
+      "rss_audio_url_host": "open.live.bbc.co.uk",
+      "decode_exit": 0,
+      "pcm_bytes": 960000,
+      "decode_passed": true,
+      "decode_error": ""
+    },
+    {
+      "id": "bbc-global-news",
+      "scope": "host production HttpStream; not Switch device",
+      "reader_exit": 0,
+      "reader": "PASS bytes=4199961 total=14606727 seek=1048576 after_seek=7200\r\n",
+      "rss_audio_url_host": "open.live.bbc.co.uk",
+      "decode_exit": 0,
+      "pcm_bytes": 960000,
+      "decode_passed": true,
+      "decode_error": ""
+    }
+  ]
+}

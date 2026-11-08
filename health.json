@@ -1,12 +1,762 @@
 {
-  "checked_at": "2026-11-08T13:35:15Z",
+  "checked_at": "2026-11-08T16:58:15Z",
   "scope": "RSS XML and bounded HTTP audio samples; no full decoding or Switch device certification",
   "podcasts": [
+    {
+      "id": "rss-03a0355ae56662ef",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/17350617",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "vol.148 让事情发生：站在自己这边，站在未来这边",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 65536,
+            "range": "bytes 0-65535/17350617",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "vol.150 功不唐捐：事情慢慢做，日子好好过",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/18505064",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "vol.149 重返巴厘岛：对当下有耐心，对未来有信心",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/12760267",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-08d1132194b7206d",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/51318307",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "【AI x 法律】模型与条款：十七年律师谈效率，也给 OPC 一份防坑清单",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 65536,
+            "range": "bytes 0-65535/51318307",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "【百期特别节目】说好让人人写代码，怎么人人都不用写了",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/7579924",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "与 Qoder 产品经理聊 AI Coding 与数字员工的觉醒｜ DevmoreWork",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/38691929",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-1fa4ba19b741d0c5",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/31754449",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "578：“有点乱”的柑橘家族（上）",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/31754449",
+            "final_host": "cdn.lizhi.fm",
+            "device_tested": false
+          },
+          {
+            "title": "577：142857为什么会“转圈”？",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/45983455",
+            "final_host": "cdn.lizhi.fm",
+            "device_tested": false
+          },
+          {
+            "title": "576：如何在\"深井冰\"中窥视宇宙？",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/63118944",
+            "final_host": "cdn.lizhi.fm",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-21dce76b2b78b641",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/40427546",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "E62-我不是天生的数字游民，自由是我赚来的权利",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 65536,
+            "range": "bytes 0-65535/40427546",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "E61-不要害怕爱上谈钱，它是自由的前提✖️童童",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/26086597",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "E60-旅行会让我们失去什么✖️背包十年小鹏",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/22123434",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-26beae9404209f3d",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/3700988",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "永远怀念我们的平哥",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 65536,
+            "range": "bytes 0-65535/3700988",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "我在追思平哥告别仪式上的发言",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/6307235",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "吴京平先生告别仪式通知",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 0-4095/1006022",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-2cbce59503f5f894",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/50866377",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "EP6. 女孩们，做自己的球星！对话WCBA亚军队员和女篮校队队长",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/mp4",
+            "bytes": 65536,
+            "range": "bytes 0-65535/50866377",
+            "final_host": "media.xyzcdn.net",
+            "device_tested": false
+          },
+          {
+            "title": "EP5. 从达特茅斯会议到GPT：人工智能沉浮录",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/mp4",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/67518641",
+            "final_host": "media.xyzcdn.net",
+            "device_tested": false
+          },
+          {
+            "title": "EP4. 对谈人工智能顶尖专家：把AI看成帮手，而不是取代自己的工具",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/mp4",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/39241425",
+            "final_host": "media.xyzcdn.net",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-4631236d96f34fab",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/80164561",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "458. 加速变化的世界中，人、动物、自然如何共生？",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mp3",
+            "bytes": 65536,
+            "range": "bytes 0-65535/80164561",
+            "final_host": "cdn5.vistopia.com.cn",
+            "device_tested": false
+          },
+          {
+            "title": "457. 我看见沙漠下暴雨，他们说有贵人来｜前方是自然",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mp3",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/193776830",
+            "final_host": "cdn5.vistopia.com.cn",
+            "device_tested": false
+          },
+          {
+            "title": "456. 刘华杰：万物皆美，野地里蕴含世界的救赎｜前方是自然",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mp3",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/177677927",
+            "final_host": "cdn5.vistopia.com.cn",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-540b4249c6a7bfca",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/72562837",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "Vol.12: 四个运动者和一个脆皮人",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/x-m4a",
+            "bytes": 65536,
+            "range": "bytes 0-65535/72562837",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "Vol11: 小宇小姐姐果敢曲折的职场成长：从康复专业-测试开发-独立开发者",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/49647121",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "Vol.10:了解下丰富多彩的 Infra 开发者宋鹏威，如何逃离 CRUD boy",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/55387971",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-65eceaa0d3b0faf3",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/48561505",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "第 18 期：节目史上最挤的一期！在 KotlinConf’24 现场聊参会体验",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/x-m4a",
+            "bytes": 65536,
+            "range": "bytes 0-65535/48561505",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "第 17 期：腾讯 QQ 自研采用原生渲染的 KMP 框架",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/54286977",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "第 16 期：什么？用 Kotlin 做网络安全？",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/55275870",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-6e1d56d905d0b36c",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/76813805",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "Teahour 2.0 #7 Vibe Coding 好上瘾",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/76813805",
+            "final_host": "cdn.fireside.fm",
+            "device_tested": false
+          },
+          {
+            "title": "Teahour 2.0 #6 教练，我想一辈子写代码！（下）",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/86533438",
+            "final_host": "cdn.fireside.fm",
+            "device_tested": false
+          },
+          {
+            "title": "Teahour 2.0 #5 教练，我想一辈子写代码！（上）",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/99620889",
+            "final_host": "cdn.fireside.fm",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-7aa57bbddb1ff4a0",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/260228252",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "努力伸手去够那把打开监狱的钥匙",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/mp4",
+            "bytes": 65536,
+            "range": "bytes 0-65535/260228252",
+            "final_host": "media.xyzcdn.net",
+            "device_tested": false
+          },
+          {
+            "title": "我的诗比我重要，我的家人比诗重要 - 海桑×张立宪",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/mp4",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/242340431",
+            "final_host": "media.xyzcdn.net",
+            "device_tested": false
+          },
+          {
+            "title": "如果耳朵会说话 | 《六重奏》如何从一个念头走到第二季 - 林海×张立宪",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/mp4",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/173046990",
+            "final_host": "media.xyzcdn.net",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-abe1238bf1debb60",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/40992180",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "【讲座018】《道德谱系学》第三篇：禁欲主义、痛苦与求真意志",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 65536,
+            "range": "bytes 0-65535/40992180",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "【对谈008】所以「ian」和「an」真的押韵吗",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/120734166",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "【讲座017】《道德谱系学》第二篇：内疚、残酷与权力意志",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/33825277",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-c465635af671b189",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/148792925",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "E46 我们从未看见彼此",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/mp4",
+            "bytes": 65536,
+            "range": "bytes 0-65535/148792925",
+            "final_host": "media.xyzcdn.net",
+            "device_tested": false
+          },
+          {
+            "title": "E45 孟岩对话李继刚：人何以自处",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/mp4",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/385478081",
+            "final_host": "media.xyzcdn.net",
+            "device_tested": false
+          },
+          {
+            "title": "E44 李晓波对话孟岩：这次，就这样吧？",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/mp4",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/111915329",
+            "final_host": "media.xyzcdn.net",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-e6e45c929bd8fb59",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/52994245",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "vol.178 不炒股，不买房，求稳的钱该怎么投？",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/mp4",
+            "bytes": 65536,
+            "range": "bytes 0-65535/52994245",
+            "final_host": "media.xyzcdn.net",
+            "device_tested": false
+          },
+          {
+            "title": "vol.177 对话蒙克：在时代夹缝中，找到你的无限游戏",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/mp4",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/64462106",
+            "final_host": "media.xyzcdn.net",
+            "device_tested": false
+          },
+          {
+            "title": "vol.176 专注是成功最大的捷径：长鑫科技和张雪机车的投资启示录",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/mp4",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/50642469",
+            "final_host": "media.xyzcdn.net",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-e9e3b2f5941f1a0d",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/49865364",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "精神教母S1E1｜「绝望写手」Deborah：失去一切后，我依然可以从头来过",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/mp4",
+            "bytes": 65536,
+            "range": "bytes 0-65535/49865364",
+            "final_host": "media.xyzcdn.net",
+            "device_tested": false
+          },
+          {
+            "title": "自我进化论｜No.82：30岁的我，希望20岁的我知道的事",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/mp4",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/51148726",
+            "final_host": "media.xyzcdn.net",
+            "device_tested": false
+          },
+          {
+            "title": "自我进化论｜No.81：审美的尽头，是成为自己",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/mp4",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/44791612",
+            "final_host": "media.xyzcdn.net",
+            "device_tested": false
+          }
+        ]
+      }
+    },
     {
       "id": "zonghengsihai",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
@@ -14,16 +764,567 @@
           "content_type": "audio/mp4",
           "sample_bytes": 4096,
           "range": "bytes 1048576-1052671/109381292",
+          "short_audio_range_fallback": false,
           "transport_only": true,
           "device_tested": false
         }
       }
     },
     {
+      "id": "rss-2b544eae143d7f70",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/7453207",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "Rappaccini’s Daughter by Nathaniel Hawthorne, Part One - February 20, 2025",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/7453207",
+            "final_host": "voa-audio.voanews.eu",
+            "device_tested": false
+          },
+          {
+            "title": "American Stories Four Poems by Robert Frost - May 15, 2023",
+            "http": 206,
+            "content_type": "audio/mp3",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/11609685",
+            "final_host": "voa-audio.voanews.eu",
+            "device_tested": false
+          },
+          {
+            "title": "Two Stories about Letter X, How It Got into the Alphabet - April 07, 2023",
+            "http": 206,
+            "content_type": "audio/mp3",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/10783837",
+            "final_host": "voa-audio.voanews.eu",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-2da4008475990d18",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/31492137",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "BE 644: Are You Good at Spitballing in English?",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/31492137",
+            "final_host": "dcs-cached.megaphone.fm",
+            "device_tested": false
+          },
+          {
+            "title": "BE 643: Appalachian, Southern or Boston? How to Understand American Accents",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/46554618",
+            "final_host": "dcs-spotify.megaphone.fm",
+            "device_tested": false
+          },
+          {
+            "title": "BE 642: Care to Learn Some Business English?",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/31334158",
+            "final_host": "dcs-cached.megaphone.fm",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-35a4c2914c5cd3f0",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/37313991",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "AEE: Beware of the Loaded Pause",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/37313991",
+            "final_host": "dcs-spotify.megaphone.fm",
+            "device_tested": false
+          },
+          {
+            "title": "AEE 2717: Are These English Phrases Condescending?",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/50102784",
+            "final_host": "dcs-spotify.megaphone.fm",
+            "device_tested": false
+          },
+          {
+            "title": "AEE 2716: This is Us Breaking Down English Grammar",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/34817197",
+            "final_host": "dcs-spotify.megaphone.fm",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-3d7cb8189b84b110",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/38859013",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "I Can't Keep Doing This (Intermediate)",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/38859013",
+            "final_host": "dcs-spotify.megaphone.fm",
+            "device_tested": false
+          },
+          {
+            "title": "Cambodia is Hard to Talk About (Conversation)",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/39956526",
+            "final_host": "dcs-spotify.megaphone.fm",
+            "device_tested": false
+          },
+          {
+            "title": "Herding Mountains to Make a Forest (Pre-Intermediate)",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/36095186",
+            "final_host": "dcs-spotify.megaphone.fm",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-4500bb8dd8f6aa12",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/53345800",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "Reflection",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/53345800",
+            "final_host": "content.production.cdn.art19.com",
+            "device_tested": false
+          },
+          {
+            "title": "Mourning",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/57505328",
+            "final_host": "content.production.cdn.art19.com",
+            "device_tested": false
+          },
+          {
+            "title": "Weddings",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/57265002",
+            "final_host": "content.production.cdn.art19.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-51c6c8be778b1473",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/72731630",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "Life, Death & Mario Kart [1008] A Rambling Challenge 🗣️",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/72731630",
+            "final_host": "stitcher2.acast.com",
+            "device_tested": false
+          },
+          {
+            "title": "A Big Talk about Small Talk 🗣️ (with Ray Addam) Improve your Speaking Skills in English [1007]",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/129368234",
+            "final_host": "stitcher2.acast.com",
+            "device_tested": false
+          },
+          {
+            "title": "9 True Ghost Stories & Unexplained Mysteries from Listeners 👀🕯️ LEPster Writing Competition [1006]",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/91747330",
+            "final_host": "stitcher2.acast.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-5297b022e14e82ff",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/35513618",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "Proving Them Wrong with Precision:  A Woman in Sushi",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/35513618",
+            "final_host": "content.production.cdn.art19.com",
+            "device_tested": false
+          },
+          {
+            "title": "From Vietnam to New York: The Story Behind Pizza 4P’s",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/36168143",
+            "final_host": "content.production.cdn.art19.com",
+            "device_tested": false
+          },
+          {
+            "title": "Dokidoki: Innovative Sake & Shochu Cocktails In Japanese Tachinomi Vibes",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/31878926",
+            "final_host": "content.production.cdn.art19.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-5c39461e474b38d5",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/47666849",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "IELTS Energy 1640: Holidays on IELTS Part 2: Let's Talk Traditions",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/47666849",
+            "final_host": "dcs-cached.megaphone.fm",
+            "device_tested": false
+          },
+          {
+            "title": "IELTS Energy 1639: How Can the Subjunctive Boost Your IELTS Grammar Scores?",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/40957786",
+            "final_host": "dcs-spotify.megaphone.fm",
+            "device_tested": false
+          },
+          {
+            "title": "IELTS Energy 1638: Launching Answers Part 2: Break Away From Boring",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/35316433",
+            "final_host": "dcs-cached.megaphone.fm",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-716b81a97ac4581f",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/11168043",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "Simplified Speech #256 – Naps",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/11168043",
+            "final_host": "content.blubrry.com",
+            "device_tested": false
+          },
+          {
+            "title": "Bonus Episode #183 – Chestnut Hunter",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/21916393",
+            "final_host": "content.blubrry.com",
+            "device_tested": false
+          },
+          {
+            "title": "Simplified Speech #255 – Halloween 2026",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/25818559",
+            "final_host": "content.blubrry.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-a99d433de6b702c3",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/31132315",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "Andy Burnham is Britain's most casual PM yet",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/31132315",
+            "final_host": "podcasts.captivate.fm",
+            "device_tested": false
+          },
+          {
+            "title": "The past and present of marathons",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/39788241",
+            "final_host": "podcasts.captivate.fm",
+            "device_tested": false
+          },
+          {
+            "title": "New way to catch burglars: DNA in the air",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/35670400",
+            "final_host": "podcasts.captivate.fm",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-df04d40a0bc62dc9",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/26567404",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "#641 | Nelson and Lady Hamilton | Part 1: The Life of Horatio Nelson",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/26567404",
+            "final_host": "dai.transistor.fm",
+            "device_tested": false
+          },
+          {
+            "title": "#639 | What’s Wrong With Italy’s Economy?",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/25310806",
+            "final_host": "dai.transistor.fm",
+            "device_tested": false
+          },
+          {
+            "title": "#636 | Victor Lustig: The Man Who Sold the Eiffel Tower",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/24352733",
+            "final_host": "dai.transistor.fm",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
       "id": "bbc-six-minute",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
@@ -31,16 +1332,917 @@
           "content_type": "audio/mpeg",
           "sample_bytes": 4096,
           "range": "bytes 1048576-1052671/3269931",
+          "short_audio_range_fallback": false,
           "transport_only": true,
           "device_tested": false
         }
       }
     },
     {
+      "id": "rss-08787d7e462fde1f",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/86582964",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "E161. “你明知道什么最重要，为什么不做？”| 和《纳瓦尔宝典》作者谈论马斯克 ft. Eric Jorgenson",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/86582964",
+            "final_host": "cdn.fireside.fm",
+            "device_tested": false
+          },
+          {
+            "title": "E160. 棋手战鹰：“落子无悔”是围棋的规矩，但不是生活的解法",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/81925578",
+            "final_host": "cdn.fireside.fm",
+            "device_tested": false
+          },
+          {
+            "title": "E159. 上帝已死，但科学却解决不了我们的精神匮乏 ft.哲学教授余明锋",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/79359260",
+            "final_host": "cdn.fireside.fm",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-15bea97de6f19220",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/3445363",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "美国就业数据超预期，美联储12月又要加息？",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 65536,
+            "range": "bytes 0-65535/3445363",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "机器人",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/3213044",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "长期不用的钱，到底应该放在哪里？",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/7790234",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-316e218df50cc78f",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/116309683",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "155. 和科沃斯钱程聊，父与子、企二代接班的样本与肌理、机器人，和我内心的追寻",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/mp4",
+            "bytes": 65536,
+            "range": "bytes 0-65535/116309683",
+            "final_host": "media.xyzcdn.net",
+            "device_tested": false
+          },
+          {
+            "title": "154. 对Dyna创始人Lindon的3小时访谈：机器人世界的迷雾、分歧与抉择，修心、《沉思录》与王阳明",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/mp4",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/166382958",
+            "final_host": "media.xyzcdn.net",
+            "device_tested": false
+          },
+          {
+            "title": "153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家”",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/mp4",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/149867818",
+            "final_host": "media.xyzcdn.net",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-5f90a6b1eacd7a9c",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/57636915",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "185: Anthropic招股书丨与Amont李肇宇聊定价逻辑和潜在风险",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/57636915",
+            "final_host": "cdn.fireside.fm",
+            "device_tested": false
+          },
+          {
+            "title": "186: Anthropic招股书丨“银行也有百亿预算”，与Fusion Fund张璐聊大企业在想什么",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/70614158",
+            "final_host": "cdn.fireside.fm",
+            "device_tested": false
+          },
+          {
+            "title": "184: 与陈哲的「具身季报26Q3」：Astra冲击后，通用模型会吃掉Robotics吗？",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/102836590",
+            "final_host": "cdn.fireside.fm",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-60be1f01f40ed263",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/103873162",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "with阳萌和王绍迪：造AI芯片，用违反祖宗家法的方法｜S6E2",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/mp4",
+            "bytes": 65536,
+            "range": "bytes 0-65535/103873162",
+            "final_host": "media.xyzcdn.net",
+            "device_tested": false
+          },
+          {
+            "title": "with卡兹克+快手：从春节大战，到AI下凡｜S6E01",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/mp4",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/70797784",
+            "final_host": "media.xyzcdn.net",
+            "device_tested": false
+          },
+          {
+            "title": "with闫怡勝: 从北大、华尔街到头部消费投资人，一个J人的自我鞭策和放过｜串台《主观答案》",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/mp4",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/92871109",
+            "final_host": "media.xyzcdn.net",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-69cfb31c8835147e",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/38497889",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "EP129 对话刘可凡：用 try-catch-finally，给独立做产品的内耗写个处理流程 🐛",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/mp4",
+            "bytes": 65536,
+            "range": "bytes 0-65535/38497889",
+            "final_host": "media.xyzcdn.net",
+            "device_tested": false
+          },
+          {
+            "title": "EP128 从 Palantir 到 OpenAI：FDE 会成为 AI 时代最重要的新岗位？ 🧬",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/mp4",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/49854859",
+            "final_host": "media.xyzcdn.net",
+            "device_tested": false
+          },
+          {
+            "title": "EP127 从 Skills 到自动化工作流，论 Agent 如何接管真实生产力 ⚙️",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/mp4",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/49623583",
+            "final_host": "media.xyzcdn.net",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-75a2fc271277de8e",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/18976465",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "S8 Vol.30 好多店孙小雨：一家成功的餐饮店，如何复制1000遍？",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 65536,
+            "range": "bytes 0-65535/18976465",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "S8 Vol.29 EDN魏朋：4个中国人，如何管理3000人的印尼呼叫中心？",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/18768583",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "S8 Vol.28 Notta.ai张岩：从听懂到行动，Voice AI的下一步是什么？",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/18371611",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-81a80259d26249ff",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/50902330",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "188.关于本轮下跌的三个想法和一些建议",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/mp4",
+            "bytes": 65536,
+            "range": "bytes 0-65535/50902330",
+            "final_host": "media.xyzcdn.net",
+            "device_tested": false
+          },
+          {
+            "title": "187.普通人究竟要如何识别金融“骗局”，规避暴雷风险？｜对话财新主编凌华薇",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/mp4",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/69900769",
+            "final_host": "media.xyzcdn.net",
+            "device_tested": false
+          },
+          {
+            "title": "186.何为中国经济新范式？｜对话CF40研究院院长郭凯",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/mp4",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/53377299",
+            "final_host": "media.xyzcdn.net",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-98326abee4285ef2",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/7847002",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "咖啡豆｜喜茶、瑞幸摆上商超货架，现制饮品起家的品牌们为什么都在发力瓶装饮料？",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 65536,
+            "range": "bytes 0-65535/7847002",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "京沪高铁前三季度净赚百亿，瑞幸成新加坡第二大咖啡品牌",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/4904305",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "全球一半的客机都是租来的，为什么航空公司越来越依赖租飞机？",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/7008702",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-a2521d0a745145d4",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/162993491",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/162993491",
+            "final_host": "cdn.fireside.fm",
+            "device_tested": false
+          },
+          {
+            "title": "E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/115626539",
+            "final_host": "cdn.fireside.fm",
+            "device_tested": false
+          },
+          {
+            "title": "E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/67452564",
+            "final_host": "cdn.fireside.fm",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-abe21de5c53c6f5c",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/120428083",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "Anthropic冲刺IPO：2万亿美元估值贵不贵？拆解Claude的增长、成本与竞争｜S10E34",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/120428083",
+            "final_host": "cdn.fireside.fm",
+            "device_tested": false
+          },
+          {
+            "title": "从免费披萨到订错机票：硅谷创业者正在解决 Agent 的哪些麻烦？ | 硅谷线下活动 S10E33",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/69077299",
+            "final_host": "cdn.fireside.fm",
+            "device_tested": false
+          },
+          {
+            "title": "用光调控神经细胞：今年诺贝尔奖如何改变我们对情绪的理解？ | 串台「声东击西」S10E32",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/97524672",
+            "final_host": "cdn.fireside.fm",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-b04fb4506f216f03",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/24252494",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "EP131深夜急诊、演唱会和一顿聊不完的火锅：忙完了，生活又有意思了",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 65536,
+            "range": "bytes 0-65535/24252494",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "EP130 去了趟普吉岛，有一些新发现",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/21682333",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "EP129 在新西兰带孩子做手术：排队、麻醉和术后护理全记录",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/19690337",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-d48458cebe315b53",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/96821432",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "277.从提醒你，到替你办：Today想把Personal AI带到哪一步？",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/mp4",
+            "bytes": 65536,
+            "range": "bytes 0-65535/96821432",
+            "final_host": "media.xyzcdn.net",
+            "device_tested": false
+          },
+          {
+            "title": "276.当AI给出所有答案，年轻人如何找到自己的问题？",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/mp4",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/70473189",
+            "final_host": "media.xyzcdn.net",
+            "device_tested": false
+          },
+          {
+            "title": "275.AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/mp4",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/122623834",
+            "final_host": "media.xyzcdn.net",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-d6b6c9a2412a6be4",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/61359486",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "No.225 莆田鞋往事",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 65536,
+            "range": "bytes 0-65535/61359486",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "No.224 ️ 1492、破产、教皇、达芬奇、拉斐尔与托斯卡纳：美第奇家族·下",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/75960191",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "No.223 “莆田系”医事：从电线杆到手术台",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/59836707",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-d890ea9530a0e2b4",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/14334134",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "艺术批评实用指南 | 来点儿理论？",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/14334134",
+            "final_host": "d3ctxlq1ktw2nl.cloudfront.net",
+            "device_tested": false
+          },
+          {
+            "title": "艺术批评实用指南 | 引用！引用？",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/36639349",
+            "final_host": "d3ctxlq1ktw2nl.cloudfront.net",
+            "device_tested": false
+          },
+          {
+            "title": "艺术批评实用指南 | 万事开头难",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/19580132",
+            "final_host": "d3ctxlq1ktw2nl.cloudfront.net",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-e0991c219fc4fd42",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/62670314",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "No.234 捷克游记：属于城堡、银矿与酒馆的波西米亚地图",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 65536,
+            "range": "bytes 0-65535/62670314",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "No.233 单口｜手机为什么要折叠？Apple 为什么要「跟风」？",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/37643866",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "No.232 吴汉坤：AI 时代，演员第一个丢饭碗？",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/23989351",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-e889f42f98c8c3a9",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/53152020",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "150 ✪ alo入华姗姗来迟；凯乐石、之禾持续提价",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/53152020",
+            "final_host": "rio.xyzcdn.net",
+            "device_tested": false
+          },
+          {
+            "title": "149 ✪ 抖省省突袭美团到店业务：本地生活怎么卷",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/61571512",
+            "final_host": "rio.xyzcdn.net",
+            "device_tested": false
+          },
+          {
+            "title": "148 ✪ 吃好睡好：肯德基KPRO入局轻食、亚朵星球床品创新",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/48778196",
+            "final_host": "rio.xyzcdn.net",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-eefc1ae9f143cbe8",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/44531878",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "EP255 - 報價低只會越做越生氣！該如何評估實力、勇敢漲價？｜阿魚 - 平面設計師",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/44531878",
+            "final_host": "d3ctxlq1ktw2nl.cloudfront.net",
+            "device_tested": false
+          },
+          {
+            "title": "EP254 - 把旅行變事業，用令人嘆為觀止的作品，得到合作機會｜旅行攝影師 - Ni",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/47752671",
+            "final_host": "d3ctxlq1ktw2nl.cloudfront.net",
+            "device_tested": false
+          },
+          {
+            "title": "EP253 - 果斷捨棄賺快錢的「麵包案」，如何靠專注熱愛的事物打造穩定案源｜工業設計師 - 三日一物／阿湯 Tang",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/51220479",
+            "final_host": "d3ctxlq1ktw2nl.cloudfront.net",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
       "id": "thatisbiz",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
@@ -48,6 +2250,7 @@
           "content_type": "audio/mpeg",
           "sample_bytes": 4096,
           "range": "bytes 1048576-1052671/37383852",
+          "short_audio_range_fallback": false,
           "transport_only": true,
           "device_tested": false
         }
@@ -57,7 +2260,7 @@
       "id": "zhixingjiuguan",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
@@ -65,6 +2268,7 @@
           "content_type": "audio/mp4",
           "sample_bytes": 4096,
           "range": "bytes 1048576-1052671/73614049",
+          "short_audio_range_fallback": false,
           "transport_only": true,
           "device_tested": false
         }
@@ -74,7 +2278,7 @@
       "id": "planet-money",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
@@ -82,16 +2286,167 @@
           "content_type": "audio/mpeg",
           "sample_bytes": 4096,
           "range": "bytes 1048576-1052671/33980572",
+          "short_audio_range_fallback": false,
           "transport_only": true,
           "device_tested": false
         }
       }
     },
     {
+      "id": "rss-19dceeeca82bb889",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/32283528",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "Are We Cooking!? What Should Dems Do Next + Jensen's Affair",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/32283528",
+            "final_host": "dcs-cached.megaphone.fm",
+            "device_tested": false
+          },
+          {
+            "title": "WarTalk: Lame Duck War, No Pete November, Bay of Tofu + Team Yankee",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/37314928",
+            "final_host": "dcs-cached.megaphone.fm",
+            "device_tested": false
+          },
+          {
+            "title": "Roasting China's AI Industry (中文版)",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/38255240",
+            "final_host": "dcs-spotify.megaphone.fm",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-71a706d9f2f770ae",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/25412691",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "Meet the winners of the The European Prize for Women Innovators",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/25412691",
+            "final_host": "audio.transistor.fm",
+            "device_tested": false
+          },
+          {
+            "title": "Seraphim Space CEO: “Europe is catching up”",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/30455186",
+            "final_host": "audio.transistor.fm",
+            "device_tested": false
+          },
+          {
+            "title": "What it makes to build ambitious companies in Europe today: A podcast with Kitty Mayo and Jade Yarrow from Project Europe.",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/1435841",
+            "final_host": "audio.transistor.fm",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-d2bb973ad31c87da",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/46136652",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "Ramtin Naimi - The State of Venture - [Invest Like the Best, EP.499]",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/46136652",
+            "final_host": "dcs-cached.megaphone.fm",
+            "device_tested": false
+          },
+          {
+            "title": "Martin Casado on Frontier Model Economics, AI's Slowdown, and the Cursor Deal - [Invest Like the Best, EP.498]",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/64204041",
+            "final_host": "dcs-cached.megaphone.fm",
+            "device_tested": false
+          },
+          {
+            "title": "Cliff Sosin - Owning the Complements to Intelligence - [Invest Like the Best, EP.497]",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/59988935",
+            "final_host": "dcs-spotify.megaphone.fm",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
       "id": "fyfy",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
@@ -99,6 +2454,7 @@
           "content_type": "audio/mpeg",
           "sample_bytes": 4096,
           "range": "bytes 1048576-1052671/73292698",
+          "short_audio_range_fallback": false,
           "transport_only": true,
           "device_tested": false
         }
@@ -108,7 +2464,7 @@
       "id": "pythonhunter",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
@@ -116,16 +2472,317 @@
           "content_type": "audio/mpeg",
           "sample_bytes": 4096,
           "range": "bytes 1048576-1052671/76802088",
+          "short_audio_range_fallback": false,
           "transport_only": true,
           "device_tested": false
         }
       }
     },
     {
+      "id": "rss-2af6b3e3724f0a35",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/56633052",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "专辑01：盲人程序员的开源贡献之旅 | 一起出主意",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/x-m4a",
+            "bytes": 65536,
+            "range": "bytes 0-65535/56633052",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "No. 36: '白嫖'开源的后果就是供应链攻击么？",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/26448636",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "No. 35: 开源社区大会背后的艺术",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/52366320",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-2b10276f52a5d39a",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/34058808",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "#154. 苹果 iPhone Duo 发布会",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/34058808",
+            "final_host": "v.typlog.com",
+            "device_tested": false
+          },
+          {
+            "title": "#153. AI编程",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/86182800",
+            "final_host": "v.typlog.com",
+            "device_tested": false
+          },
+          {
+            "title": "#152. 不做 AI 硬件，做 AGI 配件：一枚 AI 戒指背后的工程卓越",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/23113632",
+            "final_host": "v.typlog.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-8e3e445471baf538",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/25747147",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "Vol. 126 从闹市遇袭到独立出版：纽约PM的“美国祛魅”与AI辅助造书实践",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 65536,
+            "range": "bytes 0-65535/25747147",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "Vol. 125 算法的溺爱：为什么100%顺从的AI，治不好你的心理创伤？",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/22513490",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "Vol. 124 中国人“买新不买旧”，为什么美国人连用过的沙发套都要？",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/17085591",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-9d79b0b3983bd8be",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/75372976",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "84. 从卖现货起步，一个独立站品牌是怎么长出来的？",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/mp4",
+            "bytes": 65536,
+            "range": "bytes 0-65535/75372976",
+            "final_host": "media.xyzcdn.net",
+            "device_tested": false
+          },
+          {
+            "title": "83. 打造一个社群品牌，先让一部分人特别爱你",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/mp4",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/78343865",
+            "final_host": "media.xyzcdn.net",
+            "device_tested": false
+          },
+          {
+            "title": "82. 中国好美护，为何还没在欧洲火起来？",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/mp4",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/62710350",
+            "final_host": "media.xyzcdn.net",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-a1142b8f786b1b27",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/94676997",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "S2E14｜顺应“云”潮流，瞧瞧Greptime如何用开源来做好时序数据库这道专业菜",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/x-m4a",
+            "bytes": 65536,
+            "range": "bytes 0-65535/94676997",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "S2E13｜卷卷卷的数据库市场搅局者，瞧他们如何用开源杠杆撬动商业化@石原子·叶建林",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/74721657",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "S2E12｜建木的务实开源观：抬头望月，低头寻六便士 @建木社区 · 章津楠 & 刘新",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/95436490",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-e68c5e63990ba06b",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/68164864",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "101. 离开职场快车道，我决定重新设计一间教室：一个设计师的职业转向（重访 Joyce 刘珺婕）",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/68164864",
+            "final_host": "v.typlog.com",
+            "device_tested": false
+          },
+          {
+            "title": "100. 四十而已（重访 JJ Ying）",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/155260800",
+            "final_host": "v.typlog.com",
+            "device_tested": false
+          },
+          {
+            "title": "99. 与其在 AI 宇宙里画大饼，我更想在非遗世界里做学徒（「三生万序」策展人花花）",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/127801554",
+            "final_host": "v.typlog.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
       "id": "sspai",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
@@ -133,6 +2790,7 @@
           "content_type": "audio/mpeg",
           "sample_bytes": 4096,
           "range": "bytes 1048576-1052671/85232749",
+          "short_audio_range_fallback": false,
           "transport_only": true,
           "device_tested": false
         }
@@ -142,7 +2800,7 @@
       "id": "pythonbytes",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
@@ -150,16 +2808,617 @@
           "content_type": "audio/mpeg",
           "sample_bytes": 4096,
           "range": "bytes 1048576-1052671/29265644",
+          "short_audio_range_fallback": false,
           "transport_only": true,
           "device_tested": false
         }
       }
     },
     {
+      "id": "rss-0359acbf9bd09936",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/86280579",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "SE Radio 745: Andrew Tridgell on Flight Control Software",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/86280579",
+            "final_host": "content.libsyn.com",
+            "device_tested": false
+          },
+          {
+            "title": "SE Radio 744: Danilo Krummrich on Rust in the Linux Kernel",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/80247870",
+            "final_host": "content.libsyn.com",
+            "device_tested": false
+          },
+          {
+            "title": "SE Radio 743: Sowjanya Pandruju on Managing Agent State",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/101487302",
+            "final_host": "content.libsyn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-0d00198cf4b65552",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/40294791",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "Ask Me Anything with Microsoft CTO, Kevin Scott",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/40294791",
+            "final_host": "content.libsyn.com",
+            "device_tested": false
+          },
+          {
+            "title": "Michele Elam, William Robertson Coe Professor in the Humanities; Senior Fellow, Institute for Human-Centered Artificial Intellig",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/63513608",
+            "final_host": "content.libsyn.com",
+            "device_tested": false
+          },
+          {
+            "title": "Year in Review 2024",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/32825728",
+            "final_host": "content.libsyn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-281051dd122f87e0",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/32506317",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "309: The Final Episode",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/32506317",
+            "final_host": "cdn.fireside.fm",
+            "device_tested": false
+          },
+          {
+            "title": "308: Elixir Goes Gradually Typed",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/24004965",
+            "final_host": "cdn.fireside.fm",
+            "device_tested": false
+          },
+          {
+            "title": "307: Trust Nothing, Sort Everything",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/17943299",
+            "final_host": "cdn.fireside.fm",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-2b4f3abcd9ad1201",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/59155218",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "312 - Understanding Pi Durable with Mario & Armin of Earendil",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/59155218",
+            "final_host": "cdn.simplecast.com",
+            "device_tested": false
+          },
+          {
+            "title": "311 - Self learning harnesses are here",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/12599133",
+            "final_host": "cdn.simplecast.com",
+            "device_tested": false
+          },
+          {
+            "title": "310 - Mitchell Hashimoto on Ghostty & His Agentic Coding Workflow",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/58276738",
+            "final_host": "cdn.simplecast.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-6135fb2e18452b0a",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/42089839",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "182: Blackshades",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/42089839",
+            "final_host": "dovetail-cdn.prxu.org",
+            "device_tested": false
+          },
+          {
+            "title": "181: Ricky",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/85491550",
+            "final_host": "dovetail-cdn.prxu.org",
+            "device_tested": false
+          },
+          {
+            "title": "180: Conti",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/65389637",
+            "final_host": "dovetail-cdn.prxu.org",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-6c85f477a9ebb008",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/6615874",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "Will We Still Need Software Architects?",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/6615874",
+            "final_host": "assets.podhome.fm",
+            "device_tested": false
+          },
+          {
+            "title": "The First AI-Native Software Teams",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/5902091",
+            "final_host": "assets.podhome.fm",
+            "device_tested": false
+          },
+          {
+            "title": "AI Doesn’t Remove Technical Debt - It Accelerates It",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/6340112",
+            "final_host": "assets.podhome.fm",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-6f527d03bfb35933",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/55123635",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "The more you know, the less you know.",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/55123635",
+            "final_host": "dcs-spotify.megaphone.fm",
+            "device_tested": false
+          },
+          {
+            "title": "Cloud Security Posture Management (CSPM) (noun) [Word Notes]",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/9523953",
+            "final_host": "dcs-spotify.megaphone.fm",
+            "device_tested": false
+          },
+          {
+            "title": "Taking the bait out of phishing. [OMITB]",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/41187754",
+            "final_host": "dcs-cached.megaphone.fm",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-72e5396efadbb284",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/78400542",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "Big Lives: Emmanuel's New Show",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/78400542",
+            "final_host": "dcs-spotify.megaphone.fm",
+            "device_tested": false
+          },
+          {
+            "title": "Casey Wants to Believe",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/33652293",
+            "final_host": "dcs-spotify.megaphone.fm",
+            "device_tested": false
+          },
+          {
+            "title": "#189 Goodbye All",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/72538035",
+            "final_host": "dcs-spotify.megaphone.fm",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-a4dca2fccb18b0de",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/148910232",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "Big Tech lost big in the 2026 election",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/148910232",
+            "final_host": "dcs-spotify.megaphone.fm",
+            "device_tested": false
+          },
+          {
+            "title": "Books are .epubs, .mp3s, and .mp4s, too",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/56256389",
+            "final_host": "dcs-cached.megaphone.fm",
+            "device_tested": false
+          },
+          {
+            "title": "Why Rian Johnson made a photo app",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/91428552",
+            "final_host": "dcs-cached.megaphone.fm",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-aa11d011cb1c0ac2",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/2679205",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "New NPR Series: \"We Keep Us Safe\" from the Embedded podcast",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/2679205",
+            "final_host": "ondemand.npr.org",
+            "device_tested": false
+          },
+          {
+            "title": "\"The Network\" from NPR's Embedded",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/43443646",
+            "final_host": "npr.simplecastaudio.com",
+            "device_tested": false
+          },
+          {
+            "title": "Alternate Realities from NPR's Embedded",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/27139904",
+            "final_host": "npr.simplecastaudio.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-ef138d3439d8ce29",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/48005539",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "Free Food: The Rise, Fall, and Return of Foraging",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/48005539",
+            "final_host": "dcs-cached.megaphone.fm",
+            "device_tested": false
+          },
+          {
+            "title": "The Big Apple Episode",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/57836641",
+            "final_host": "dcs-cached.megaphone.fm",
+            "device_tested": false
+          },
+          {
+            "title": "Fibermaxxing FTW: Meet the Neglected Nutrient That's the Key to Health",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/51732089",
+            "final_host": "dcs-cached.megaphone.fm",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-f5a82056f7b951e8",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/33937459",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "AI Preceptorships with CMU's Dr Michael Hilton and Julia Gao",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/33937459",
+            "final_host": "cdn.simplecast.com",
+            "device_tested": false
+          },
+          {
+            "title": "Changing how Engineering works with Ironclad CTO Sunita Verma",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/32332074",
+            "final_host": "cdn.simplecast.com",
+            "device_tested": false
+          },
+          {
+            "title": "The Quantum Revolution with Turing Award Winners Charles Bennett and Gilles Brassard",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/48068908",
+            "final_host": "cdn.simplecast.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
       "id": "talkpython",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
@@ -167,57 +3426,7 @@
           "content_type": "audio/mpeg",
           "sample_bytes": 4096,
           "range": "bytes 1048576-1052671/60001382",
-          "transport_only": true,
-          "device_tested": false
-        }
-      }
-    },
-    {
-      "id": "etw",
-      "availability": "reachable",
-      "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
-        "rss_http_status": 200,
-        "guid_present": true,
-        "audio": {
-          "http_status": 206,
-          "content_type": "audio/mpeg",
-          "sample_bytes": 4096,
-          "range": "bytes 1048576-1052671/129348472",
-          "transport_only": true,
-          "device_tested": false
-        }
-      }
-    },
-    {
-      "id": "gcores",
-      "availability": "reachable",
-      "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
-        "rss_http_status": 200,
-        "guid_present": true,
-        "audio": {
-          "http_status": 206,
-          "content_type": "audio/mpeg",
-          "sample_bytes": 4096,
-          "range": "bytes 1048576-1052671/102978156",
-          "transport_only": true,
-          "device_tested": false
-        }
-      }
-    },
-    {
-      "id": "stovol",
-      "availability": "reachable",
-      "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
-        "rss_http_status": 200,
-        "guid_present": true,
-        "audio": {
-          "http_status": 206,
-          "content_type": "audio/mpeg",
-          "sample_bytes": 4096,
-          "range": "bytes 1048576-1052671/126894709",
+          "short_audio_range_fallback": false,
           "transport_only": true,
           "device_tested": false
         }
@@ -227,7 +3436,7 @@
       "id": "99pi",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
@@ -235,6 +3444,1129 @@
           "content_type": "audio/mpeg",
           "sample_bytes": 4096,
           "range": "bytes 1048576-1052671/40309432",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        }
+      }
+    },
+    {
+      "id": "rss-c3e4f79578097bb0",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/29634684",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "EP 128: Designing the Future of Food | Dan Barber",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/29634684",
+            "final_host": "dcs-spotify.megaphone.fm",
+            "device_tested": false
+          },
+          {
+            "title": "EP 127: Designing Brand Strategy | Howard Belk",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/35043160",
+            "final_host": "dcs-spotify.megaphone.fm",
+            "device_tested": false
+          },
+          {
+            "title": "EP 126: Designing with Neurodivergent People | Katie Gaudion",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/29575910",
+            "final_host": "dcs-cached.megaphone.fm",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "etw",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/129348472",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        }
+      }
+    },
+    {
+      "id": "gcores",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/102978156",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        }
+      }
+    },
+    {
+      "id": "rss-0005d49017676941",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/48270947",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "北海道旅行 日本的第一次自驾游",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/48270947",
+            "final_host": "audio.buzzsprout.com",
+            "device_tested": false
+          },
+          {
+            "title": "霉运退散：急诊室大作战",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/21957694",
+            "final_host": "audio.buzzsprout.com",
+            "device_tested": false
+          },
+          {
+            "title": "隐适美的苦与苦",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/18333980",
+            "final_host": "audio.buzzsprout.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-2b903eda90b683de",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/84016223",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "做客知行小酒馆｜AI会改变世界，可它真的有让世界变好吗？",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/84016223",
+            "final_host": "v.typlog.com",
+            "device_tested": false
+          },
+          {
+            "title": "一件好事，可以成为好生意吗？｜益盒×腾讯研究院",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/69041375",
+            "final_host": "v.typlog.com",
+            "device_tested": false
+          },
+          {
+            "title": "曾被判活不过18岁的他，与病友一起用AI找生路",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/88772063",
+            "final_host": "v.typlog.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-349ce51cfa9d4985",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/72524651",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "11. 丁铨：从老照片中找寻潮州的流动与守望",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/72524651",
+            "final_host": "cdn.fireside.fm",
+            "device_tested": false
+          },
+          {
+            "title": "10. 对话《人海同游》导演蔡杰：文艺电影的潮汕力量",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/59198150",
+            "final_host": "cdn.fireside.fm",
+            "device_tested": false
+          },
+          {
+            "title": "9. 潮汕历史上的传教士",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/57049314",
+            "final_host": "cdn.fireside.fm",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-3b8520b089fbfd4c",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/122037103",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "Ep.48 吃点甜的很有必要——被甜品治愈的时刻",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/122037103",
+            "final_host": "d3ctxlq1ktw2nl.cloudfront.net",
+            "device_tested": false
+          },
+          {
+            "title": "Ep.47 爱吃什么吃什么——我的口味我做主",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/130934619",
+            "final_host": "d3ctxlq1ktw2nl.cloudfront.net",
+            "device_tested": false
+          },
+          {
+            "title": "Ep.46 齐天大豆，看我七十二变——说说豆腐",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/139703319",
+            "final_host": "d3ctxlq1ktw2nl.cloudfront.net",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-49bb9e323181ed26",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/48541014",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "S2EP20 故事放好，日子继续。",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 65536,
+            "range": "bytes 0-65535/48541014",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "S2EP19 身心都在路上：用东方智慧调和远方",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/34954161",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "S2EP18 不如跳舞！快乐是最好的舞步！",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/46944484",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-676e313bed58908b",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/30613146",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "【东谈西论】中共五中全会“从严治党”为二十一大铺垫？",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/30613146",
+            "final_host": "omny-us.pdn.tritondigital.com",
+            "device_tested": false
+          },
+          {
+            "title": "【东谈西论】金正恩“三无访华”背后的大国平衡术",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/32915099",
+            "final_host": "omny-us.pdn.tritondigital.com",
+            "device_tested": false
+          },
+          {
+            "title": "【东谈西论】美国期中选举：特朗普难  伊朗也难？",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/33357779",
+            "final_host": "omny-us.pdn.tritondigital.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-6d8ed028ed2cf189",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/85689990",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "哲學係咁傾】第二季 ep. 13 機器能思考嗎？",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/85689990",
+            "final_host": "d3ctxlq1ktw2nl.cloudfront.net",
+            "device_tested": false
+          },
+          {
+            "title": "【哲學係咁傾】第二季 ep. 12 讀書有意思？",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/90784913",
+            "final_host": "d3ctxlq1ktw2nl.cloudfront.net",
+            "device_tested": false
+          },
+          {
+            "title": "【不合時宜】三篇︰越奇妙越相信、「可愛」不可愛、男兒不留淚的規訓",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/8578496",
+            "final_host": "d3ctxlq1ktw2nl.cloudfront.net",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-7c083a0b9401abc5",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/17081789",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "038: 遗产大会特别节目#5：以鹿野苑为例看ICOMOS如何解读遗产的类型、价值标准和属性",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/17081789",
+            "final_host": "cdn.fireside.fm",
+            "device_tested": false
+          },
+          {
+            "title": "037: 遗产大会特别节目#4：介绍4个新晋现代主义建筑（城市）遗产",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/10741608",
+            "final_host": "cdn.fireside.fm",
+            "device_tested": false
+          },
+          {
+            "title": "036: 景德镇成为世界遗产！我们制作了一档系列节目！",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/33855225",
+            "final_host": "cdn.fireside.fm",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-889ddd3ac2cd5e30",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/45073908",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "514 高林漫谈帝国巡游、朝圣之路与汽车旅行的兴起",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 65536,
+            "range": "bytes 0-65535/45073908",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "513 为永明时代作传：林晓光谈南齐武帝萧赜与南朝文学的爆发",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/46338127",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "512 与王恺漫话江南食事：从文人蟹宴到乡野土菜",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/40853841",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-8b3bafc6054ad20c",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/12188495",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "Ep42 北美纯过日子人，30公斤海运都买了些啥？",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 65536,
+            "range": "bytes 0-65535/12188495",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "Ep42 虽不似少年游，但中老年游也很上头！",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/23975235",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "Ep40 君子之交淡如水，狐朋狗友毛茸茸",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/16015585",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-8d252eb2898219b8",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/16686841",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "我们为什么总是期待天才？姜萍事件与后真相焦虑",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 65536,
+            "range": "bytes 0-65535/16686841",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "JC73 | 刻板印象，还是重新认识自己？聊聊MBTI人格测试",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/21338875",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "JC71 | 共情与敏感：我们太容易被冒犯了吗？",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/93223042",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-947287162a678621",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/44194636",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "Vo319 周老师来了—现在去澳门还有什么好玩的？",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 65536,
+            "range": "bytes 0-65535/44194636",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "Vo318 从起点到原点 美术艺考祝老师的故事",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/46736226",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "Vo317 阿力带孩子去马来西亚读书的故事",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/67897849",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-97788cdcd7afb0e2",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/11688897",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "715.为什么越说“我没事”的人，越需要被看见？",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 65536,
+            "range": "bytes 0-65535/11688897",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "父母永远都有错？不是因为不爱，是因为三个错位同时发生",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/10797213",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "多年前被骂哭的那件事，你为什么还是放不下？委屈不需要合理才存在",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/6936147",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-a01880308d827e9d",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/45380660",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "Vol.359 伶仃世：凡看起来威风无两的，都有难以启齿的脆弱",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 65536,
+            "range": "bytes 0-65535/45380660",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "Vol.358 钢琴课：我已经想开了，希望你也想开一点",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/53108433",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "Vol.357 永结无情游：实验班的同学们，你们过得怎么样",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/55834975",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-a97d5b0a683db8f7",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/137022194",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "Ep. 91 八月九月总结：生活繁忙依然读书",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/137022194",
+            "final_host": "d3ctxlq1ktw2nl.cloudfront.net",
+            "device_tested": false
+          },
+          {
+            "title": "Ep 90. 7月总结：炎热的夏季在书中旅行",
+            "http": 206,
+            "content_type": "audio/x-m4a",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/113608999",
+            "final_host": "d3ctxlq1ktw2nl.cloudfront.net",
+            "device_tested": false
+          },
+          {
+            "title": "Ep. 89 入夏之际，在阅读中寻找凉意",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/129747197",
+            "final_host": "d3ctxlq1ktw2nl.cloudfront.net",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-b92847397fcaeecd",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/35227383",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "【史波架撐多】EP.2：如何成就一個偉大嘅球員？心理質素最重要？試玩足球人生模擬器",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/35227383",
+            "final_host": "d3ctxlq1ktw2nl.cloudfront.net",
+            "device_tested": false
+          },
+          {
+            "title": "EP.121 台灣大選作弊實錄",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/76835048",
+            "final_host": "d3ctxlq1ktw2nl.cloudfront.net",
+            "device_tested": false
+          },
+          {
+            "title": "【港識奇案】EP.103｜元洲街邨安安幼稚園斬人案",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/23597856",
+            "final_host": "d3ctxlq1ktw2nl.cloudfront.net",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "stovol",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/126894709",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        }
+      }
+    },
+    {
+      "id": "rss-26dce55b83f8b221",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/30594618",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "The Rahm Emanuel Profiles Will Continue Until Morale Improves [TEASER]",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/30594618",
+            "final_host": "audio.buzzsprout.com",
+            "device_tested": false
+          },
+          {
+            "title": "A Review Of “Why Men Love Bitches”",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/51817993",
+            "final_host": "audio.buzzsprout.com",
+            "device_tested": false
+          },
+          {
+            "title": "Surrounded By Idiots",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/49773829",
+            "final_host": "audio.buzzsprout.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-76b68ac910163f78",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/54696297",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "Health Insurance in America",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/54696297",
+            "final_host": "npr.simplecastaudio.com",
+            "device_tested": false
+          },
+          {
+            "title": "Remembering Noah Adams",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/25135719",
+            "final_host": "npr.simplecastaudio.com",
+            "device_tested": false
+          },
+          {
+            "title": "Shadows, war, and finding Moomin joy",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/53223411",
+            "final_host": "npr.simplecastaudio.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-d37152e09fffcecf",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/50036625",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "On Martin Heidegger's \"Being and Time\"",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/50036625",
+            "final_host": "injector.simplecastaudio.com",
+            "device_tested": false
+          },
+          {
+            "title": "On Samuel Beckett's \"Waiting for Godot",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/31915802",
+            "final_host": "injector.simplecastaudio.com",
+            "device_tested": false
+          },
+          {
+            "title": "On William Shakespeare's \"Hamlet\"",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/27451794",
+            "final_host": "injector.simplecastaudio.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-d8ddc57d615c9386",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/44797604",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "EP220 | 愛情， 工作， 家庭， 還有自己：現在的妳，更喜歡自己了嗎？Ft. nomel創辦人 Melinda 王詠穎",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/44797604",
+            "final_host": "d3ctxlq1ktw2nl.cloudfront.net",
+            "device_tested": false
+          },
+          {
+            "title": "EP219 | 「在意身邊 10 個人的看法，會讓你錯過 10 萬個買單的人！」從 7 萬創業到 4 天賣破 千 萬的變現心法 ! Ft. 億萬團購女王Coco 婉蓁",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/31102073",
+            "final_host": "d3ctxlq1ktw2nl.cloudfront.net",
+            "device_tested": false
+          },
+          {
+            "title": "EP218 | 安太歲要安出大三角 ?! 熟女追星有多狂？現場把老公推開「快抱我起來看！」 能好好活著就是最大的幸運！",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/27683090",
+            "final_host": "d3ctxlq1ktw2nl.cloudfront.net",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "storyfm",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/39845072",
+          "short_audio_range_fallback": false,
           "transport_only": true,
           "device_tested": false
         }
@@ -244,7 +4576,7 @@
       "id": "bbc-global-news",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
@@ -252,26 +4584,760 @@
           "content_type": "audio/mpeg",
           "sample_bytes": 4096,
           "range": "bytes 1048576-1052671/14928346",
+          "short_audio_range_fallback": false,
           "transport_only": true,
           "device_tested": false
         }
       }
     },
     {
-      "id": "storyfm",
+      "id": "rss-007910e88ad565b4",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
           "http_status": 206,
           "content_type": "audio/mp4",
           "sample_bytes": 4096,
-          "range": "bytes 1048576-1052671/39845072",
+          "range": "bytes 1048576-1052671/4389908",
+          "short_audio_range_fallback": false,
           "transport_only": true,
           "device_tested": false
-        }
+        },
+        "recent_episodes": [
+          {
+            "title": "皇城根儿超级大杂院的百年沉浮",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 65536,
+            "range": "bytes 0-65535/4389908",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "北京板爷的心跳诡异录|鬼打墙|诡异录|鬼宅|",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/9239504",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "传奇道士邱长春｜琢玉始祖｜玉器始祖｜北京玉器行祖师爷",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/14424787",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-0d520c3ed2183b5f",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/47313636",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "61. 养狗vs养娃 当了妈才能体会的那些崩溃和幸福！",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 65536,
+            "range": "bytes 0-65535/47313636",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "60. 爱做播客的我们，到底在做些什么",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/37963859",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "59. 35岁闪婚启示录：挥别PUA骗子前任，靠相亲100次找到真爱",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/34109849",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-1e990379a0d3b0fb",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/164183555",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "20世纪专制史，电影先清算一部分",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 65536,
+            "range": "bytes 0-65535/164183555",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "《欢迎来龙餐馆》《空枪》说明中国电影还处理不了复杂政治问题",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/25955784",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "当希腊历史、美国政治、诺兰美学在《奥德赛》里打起来",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/87509557",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-48b7c74d4bbe42ce",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/52282162",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "vol.109 2025年度回顾：与自己和解 然后坚韧地生活",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 65536,
+            "range": "bytes 0-65535/52282162",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "vol.108 秋日二三事",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/123867977",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "vol.107 中年人对转行的畅(幻)想 feat 一百种生活",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/58501369",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-4a67c1abacfc8cd3",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/16536374",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "608 毫不留情的9比1！科莫哪儿像欧冠新军？",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 65536,
+            "range": "bytes 0-65535/16536374",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "607 凯恩金球实至名归，天时地利人和",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/17842695",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "606 大巴黎4比2巴萨，三连冠已势不可挡？",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/16929211",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-51fbba2bd2498152",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/43623239",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "180.洛阳亲友如相问，就说我在当孙子",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 65536,
+            "range": "bytes 0-65535/43623239",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "179.身体已不是从前那个少年，however心还是。",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/40196733",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "178.你管我有钱没钱，你先v我50看看实力",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/72918628",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-70e774538f767f95",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/71438257",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "十月广播电视报：我已经不再是我，而你却依然是你",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 65536,
+            "range": "bytes 0-65535/71438257",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "103.对话演员郭晓婷：她在国产剧里长大，也看着国产剧变化",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/63844312",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "八月广播电视报：怎么所有人的青铜时代都在崩溃",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/73322364",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-727917cbcdfee6ff",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/44978051",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "【vol.375】“消费才能入座”：一边妥协一边较劲，谁还没点消费羞耻",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 65536,
+            "range": "bytes 0-65535/44978051",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "【vol.374】头顶渐秃，自信拉满！这群男人的自恋猝不及防",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/50786754",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "【vol.373】避雷！全网西安旅游差评：本地人表态，槽点与误会分开说",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/48773709",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-7756f490308a3788",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/37707396",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "EP297：西乙悲剧后的讨论：该如何避免伤及生命的行为？司法介入，会管用吗？",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 65536,
+            "range": "bytes 0-65535/37707396",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "EP296：又到一年一度金球奖，这次老好人凯恩能否跑赢“大乱战”？",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/40998943",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "EP295：【算是旧闻】再看C罗退出事件，为什么一步步走到现在的地步？",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/50505942",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-7fc8b2f376530f0a",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/x-m4a",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/73631110",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "硬盒攀岩038-攀岩心理训练/攀岩，先爬过自己",
+            "http": 206,
+            "content_type": "audio/x-m4a",
+            "declared_type": "audio/x-m4a",
+            "bytes": 65536,
+            "range": "bytes 0-65535/73631110",
+            "final_host": "d3ctxlq1ktw2nl.cloudfront.net",
+            "device_tested": false
+          },
+          {
+            "title": "硬盒攀岩037-攀岩当妈妈指南",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/74485349",
+            "final_host": "d3ctxlq1ktw2nl.cloudfront.net",
+            "device_tested": false
+          },
+          {
+            "title": "硬盒攀岩036-没有登顶酋长岩 bigwall free climb",
+            "http": 206,
+            "content_type": "application/octet-stream",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/46021510",
+            "final_host": "d3ctxlq1ktw2nl.cloudfront.net",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-a145cf6850130846",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/55221851",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "英超无双384 海鸥不斩无名之辈，曼市双雄双双败退~26/27赛季英超精华（九）",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 65536,
+            "range": "bytes 0-65535/55221851",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "英超无双383 热刺连胜大步快走，曼联惨败全队梦游~26/27赛季英超精华（八）",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/51686708",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "英超无双382 海鸥残暴连下五城，热刺终于迎来首胜~26/27赛季英超精华（七）",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/55889861",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-dce09950d1eaa194",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/101766957",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "Vol.21-脱口秀环球旅行｜搞笑多邻国｜ft.新加坡全职演员Jacky Ng",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/x-m4a",
+            "bytes": 65536,
+            "range": "bytes 0-65535/101766957",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "Vol.20-我在新加坡‘失业’了｜裸辞，裁员，毕业就失业｜新加坡找工作实录",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/86194094",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "Vol.19-狮城戏剧人｜新加坡中文话剧儿童剧业者",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/107009715",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-e86cd3634e059549",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/34792140",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "S7E15：我们在吃散伙饭",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 65536,
+            "range": "bytes 0-65535/34792140",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "S7E14：无能的高层、无力的球队、无奈的球迷",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/35900727",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          },
+          {
+            "title": "S7E13：欢庆连胜，致敬传奇",
+            "http": 206,
+            "content_type": "audio/mp4",
+            "declared_type": "audio/x-m4a",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/40932408",
+            "final_host": "aod.cos.tx.xmcdn.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-f2986806133810a0",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/64027744",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "vol.67 从Tiffany月饼到法国罢工，阶级矛盾不会消失只会转移",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/64027744",
+            "final_host": "v.typlog.com",
+            "device_tested": false
+          },
+          {
+            "title": "一格月报2026.09｜撞车、失禁与手机弹窗",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/52184847",
+            "final_host": "v.typlog.com",
+            "device_tested": false
+          },
+          {
+            "title": "vol.66 当擦边可以获利，选择性感还是一种自由吗？",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/75069696",
+            "final_host": "v.typlog.com",
+            "device_tested": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "rss-f857ff91c54493ff",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T16:58:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/12982825",
+          "short_audio_range_fallback": false,
+          "transport_only": true,
+          "device_tested": false
+        },
+        "recent_episodes": [
+          {
+            "title": "THE FASTEST GIRL IN SOMALIA Bonus: Minneapolis",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 65536,
+            "range": "bytes 0-65535/12982825",
+            "final_host": "dcs-spotify.megaphone.fm",
+            "device_tested": false
+          },
+          {
+            "title": "THE FASTEST GIRL IN SOMALIA Episode 5: The Sea",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/41391523",
+            "final_host": "dcs-cached.megaphone.fm",
+            "device_tested": false
+          },
+          {
+            "title": "THE FASTEST GIRL IN SOMALIA Episode 4: Libya",
+            "http": 206,
+            "content_type": "audio/mpeg",
+            "declared_type": "audio/mpeg",
+            "bytes": 4096,
+            "range": "bytes 1048576-1052671/30445562",
+            "final_host": "dcs-cached.megaphone.fm",
+            "device_tested": false
+          }
+        ]
       }
     }
   ],
@@ -280,23 +5346,25 @@
       "id": "somafm-groovesalad",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
-          {
-            "url": "https://ice2.somafm.com/groovesalad-128-mp3",
-            "http_status": 200,
-            "content_type": "audio/mpeg",
-            "sample_bytes": 4096,
-            "range": null,
-            "transport_only": true,
-            "device_tested": false
-          },
           {
             "url": "https://ice6.somafm.com/groovesalad-128-mp3",
             "http_status": 200,
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
+            "transport_only": true,
+            "device_tested": false
+          },
+          {
+            "url": "https://ice2.somafm.com/groovesalad-128-mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 4096,
+            "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
@@ -309,23 +5377,25 @@
       "id": "somafm-dronezone",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
-          {
-            "url": "https://ice2.somafm.com/dronezone-128-mp3",
-            "http_status": 200,
-            "content_type": "audio/mpeg",
-            "sample_bytes": 4096,
-            "range": null,
-            "transport_only": true,
-            "device_tested": false
-          },
           {
             "url": "https://ice6.somafm.com/dronezone-128-mp3",
             "http_status": 200,
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
+            "transport_only": true,
+            "device_tested": false
+          },
+          {
+            "url": "https://ice2.somafm.com/dronezone-128-mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 4096,
+            "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
@@ -338,23 +5408,25 @@
       "id": "somafm-deepspaceone",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
-          {
-            "url": "https://ice2.somafm.com/deepspaceone-128-mp3",
-            "http_status": 200,
-            "content_type": "audio/mpeg",
-            "sample_bytes": 4096,
-            "range": null,
-            "transport_only": true,
-            "device_tested": false
-          },
           {
             "url": "https://ice6.somafm.com/deepspaceone-128-mp3",
             "http_status": 200,
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
+            "transport_only": true,
+            "device_tested": false
+          },
+          {
+            "url": "https://ice2.somafm.com/deepspaceone-128-mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 4096,
+            "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
@@ -367,23 +5439,25 @@
       "id": "somafm-secretagent",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
-          {
-            "url": "https://ice2.somafm.com/secretagent-128-mp3",
-            "http_status": 200,
-            "content_type": "audio/mpeg",
-            "sample_bytes": 4096,
-            "range": null,
-            "transport_only": true,
-            "device_tested": false
-          },
           {
             "url": "https://ice6.somafm.com/secretagent-128-mp3",
             "http_status": 200,
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
+            "transport_only": true,
+            "device_tested": false
+          },
+          {
+            "url": "https://ice2.somafm.com/secretagent-128-mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 4096,
+            "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
@@ -396,23 +5470,25 @@
       "id": "somafm-indiepop",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
-          {
-            "url": "https://ice2.somafm.com/indiepop-128-mp3",
-            "http_status": 200,
-            "content_type": "audio/mpeg",
-            "sample_bytes": 4096,
-            "range": null,
-            "transport_only": true,
-            "device_tested": false
-          },
           {
             "url": "https://ice6.somafm.com/indiepop-128-mp3",
             "http_status": 200,
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
+            "transport_only": true,
+            "device_tested": false
+          },
+          {
+            "url": "https://ice2.somafm.com/indiepop-128-mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 4096,
+            "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
@@ -425,23 +5501,25 @@
       "id": "somafm-lush",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
-          {
-            "url": "https://ice2.somafm.com/lush-128-mp3",
-            "http_status": 200,
-            "content_type": "audio/mpeg",
-            "sample_bytes": 4096,
-            "range": null,
-            "transport_only": true,
-            "device_tested": false
-          },
           {
             "url": "https://ice6.somafm.com/lush-128-mp3",
             "http_status": 200,
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
+            "transport_only": true,
+            "device_tested": false
+          },
+          {
+            "url": "https://ice2.somafm.com/lush-128-mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 4096,
+            "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
@@ -454,23 +5532,25 @@
       "id": "somafm-gsclassic",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
-          {
-            "url": "https://ice2.somafm.com/gsclassic-128-mp3",
-            "http_status": 200,
-            "content_type": "audio/mpeg",
-            "sample_bytes": 4096,
-            "range": null,
-            "transport_only": true,
-            "device_tested": false
-          },
           {
             "url": "https://ice6.somafm.com/gsclassic-128-mp3",
             "http_status": 200,
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
+            "transport_only": true,
+            "device_tested": false
+          },
+          {
+            "url": "https://ice2.somafm.com/gsclassic-128-mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 4096,
+            "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
@@ -483,23 +5563,25 @@
       "id": "somafm-defcon",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
-          {
-            "url": "https://ice2.somafm.com/defcon-128-mp3",
-            "http_status": 200,
-            "content_type": "audio/mpeg",
-            "sample_bytes": 4096,
-            "range": null,
-            "transport_only": true,
-            "device_tested": false
-          },
           {
             "url": "https://ice6.somafm.com/defcon-128-mp3",
             "http_status": 200,
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
+            "transport_only": true,
+            "device_tested": false
+          },
+          {
+            "url": "https://ice2.somafm.com/defcon-128-mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 4096,
+            "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
@@ -512,7 +5594,7 @@
       "id": "swiss-jazz",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
           {
             "url": "https://stream.srg-ssr.ch/srgssr/rsj/mp3/128",
@@ -520,6 +5602,7 @@
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
@@ -532,7 +5615,7 @@
       "id": "swiss-pop",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
           {
             "url": "https://stream.srg-ssr.ch/srgssr/rsp/mp3/128",
@@ -540,6 +5623,7 @@
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
@@ -552,7 +5636,7 @@
       "id": "swiss-classic",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
           {
             "url": "https://stream.srg-ssr.ch/srgssr/rsc_de/mp3/128",
@@ -560,6 +5644,7 @@
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
@@ -572,7 +5657,7 @@
       "id": "kexp",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
           {
             "url": "https://kexp-mp3-128.streamguys1.com/kexp128.mp3",
@@ -580,6 +5665,7 @@
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
@@ -592,7 +5678,7 @@
       "id": "radio-paradise-main",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
           {
             "url": "https://stream.radioparadise.com/mp3-192",
@@ -600,6 +5686,7 @@
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
@@ -612,7 +5699,7 @@
       "id": "rb-24711f7f-8ff5-4141-8e0f-ab17f3da1b89",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
           {
             "url": "https://lhttp.qingting.fm/live/4804/64k.mp3",
@@ -620,6 +5707,7 @@
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
@@ -632,7 +5720,7 @@
       "id": "rb-835070cd-bf45-4e48-88a4-e9f9a0d7dd9e",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
           {
             "url": "https://lhttp.qtfm.cn/live/15318317/64k.mp3",
@@ -640,6 +5728,7 @@
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
@@ -652,7 +5741,7 @@
       "id": "rb-94de57d1-542a-46b8-8e18-d97517d93f99",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
           {
             "url": "http://lhttp.qingting.fm/live/4915/64k.mp3",
@@ -660,6 +5749,7 @@
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
@@ -672,7 +5762,7 @@
       "id": "rb-9618f097-0601-11e8-ae97-52543be04c81",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
           {
             "url": "http://stm.rthk.hk/radio1",
@@ -680,6 +5770,7 @@
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
@@ -692,7 +5783,7 @@
       "id": "rb-44cea5a0-7466-11e9-af37-52543be04c81",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
           {
             "url": "http://lhttp.qingting.fm/live/276/64k.mp3",
@@ -700,6 +5791,7 @@
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
@@ -712,7 +5804,7 @@
       "id": "rb-eea091f2-750b-11e9-af37-52543be04c81",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
           {
             "url": "http://lhttp.qingting.fm/live/270/64k.mp3",
@@ -720,6 +5812,7 @@
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }

@@ -1,5 +1,5 @@
 """Check public metadata and bounded audio samples; never download full episodes."""
-import argparse,concurrent.futures,datetime,hashlib,json,re,urllib.parse,urllib.request,xml.etree.ElementTree as ET
+import argparse,concurrent.futures,datetime,hashlib,json,re,urllib.parse,urllib.request,urllib.error,xml.etree.ElementTree as ET
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 STAMP=datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds").replace("+00:00","Z")
@@ -9,11 +9,16 @@ def get(url,limit,headers=None):
     with urllib.request.urlopen(urllib.request.Request(url,headers={"User-Agent":UA,**(headers or {})}),timeout=12) as r:
         return r.status,r.url,dict(r.headers),r.read(limit)
 def audio(url,seek=False):
-    status,final,headers,data=get(url,4096,{"Range":"bytes=1048576-1052671"} if seek else {})
+    short_audio=False
+    try:
+        status,final,headers,data=get(url,4096,{"Range":"bytes=1048576-1052671"} if seek else {})
+    except urllib.error.HTTPError as e:
+        if e.code!=416 or not seek:raise
+        status,final,headers,data=get(url,4096,{"Range":"bytes=0-4095"});short_audio=True
     mime=next((v for k,v in headers.items() if k.lower()=="content-type"),"").split(";")[0]
     if status not in (200,206) or not data or not mime.startswith(("audio/","application/octet-stream")): raise ValueError("response is not audio")
     if data.lstrip().startswith((b"#EXTM3U",b"<")): raise ValueError("playlist/HTML response")
-    return {"http_status":status,"content_type":mime,"sample_bytes":len(data),"range":next((v for k,v in headers.items() if k.lower()=="content-range"),None),"transport_only":True,"device_tested":False}
+    return {"http_status":status,"content_type":mime,"sample_bytes":len(data),"range":next((v for k,v in headers.items() if k.lower()=="content-range"),None),"short_audio_range_fallback":short_audio,"transport_only":True,"device_tested":False}
 def podcast(row):
     try:
         code,final,headers,body=get(row["feed_url"],12*1024*1024+1)
@@ -28,7 +33,9 @@ def podcast(row):
         row["latest_publication"]=item.findtext("pubDate")
         row["feed_audio_type"]=enclosure.get("type")
         row["feed_episode_count"]=len(entries)
+        recent=row.get("verification",{}).get("recent_episodes",[])
         row["verification"]={"checked_at":STAMP,"rss_http_status":code,"guid_present":bool(item.findtext("guid")),"audio":sample}
+        if recent:row["verification"]["recent_episodes"]=recent
         row["availability"]="reachable";row["last_verified_at"]=STAMP
     except Exception as e:
         row["availability"]="unreachable";row["verification"]={"checked_at":STAMP,"error":str(e)[:200],"device_tested":False}

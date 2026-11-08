@@ -28,7 +28,13 @@
 
 ## Switch 客户端状态
 
-当前仓库首先提供可访问的数据契约与检查结果。节目 UI、下载和续播需要客户端实现。现有 NRO 的 Radio Browser 电台搜索与此远程目录是独立入口。
+Switch 客户端已接入此目录，播客页面可刷新目录、订阅 RSS、下载和断点续播；电台同时保留 Radio Browser 发现与搜索。当前目录 117 个播客频道（80 中文、37 英文），电台 19 条、18 条默认启用。原有频道 ID 全部保留。
+
+学习成长与经济商业优先，科技、人文随后，娱乐靠后。此次参考 AntennaPod 使用公共目录的方式，并从 Chinese-Podcasts 等公开清单和 Apple 节目索引发现发布者 RSS；没有把 RSSHub 聚合代理批量作为默认源。仅保存节目元数据，不搬运音频。
+
+117 个频道通过主机生产 HTTP/RSS 解析检查；新增候选抽查近期三集音频地址，18 个重点频道补做 MP3/AAC 解码抽样，详见 reports/。BBC 两个频道在电脑端通过生产流读取、Range 定位与解码检查，但 Switch 上的播放问题仍未完成实机定位；目录标明海外线路，不把电脑端成功描述为设备修复。
+
+发现清单参考：[Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts)、[awesome-chinese-podcasts](https://github.com/fffx/awesome-chinese-podcasts)、[tidings-rss](https://github.com/fuxiaoai/tidings-rss)。目录方式参考 [AntennaPod 官方说明](https://antennapod.org/documentation/podcasters-hosters/list-podcast)。节目名称和 RSS 地址经单独核验，简介按本目录分类整理。
 
 ## 展示参考
 

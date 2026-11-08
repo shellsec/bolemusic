@@ -1,0 +1,1069 @@
+{
+  "checked_at": "2026-11-08T17:01:46.003794+00:00",
+  "scope": "Host production Http/RSS implementation, OpenSSL curl constrained to TLS 1.2; not Switch device acceptance",
+  "feeds": [
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 1674712,
+      "elapsed_ms": 219,
+      "episodes": 161,
+      "error": "",
+      "http": 200,
+      "id": "rss-03a0355ae56662ef"
+    },
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 1068076,
+      "elapsed_ms": 213,
+      "episodes": 101,
+      "error": "",
+      "http": 200,
+      "id": "rss-08d1132194b7206d"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 951178,
+      "elapsed_ms": 911,
+      "episodes": 646,
+      "error": "",
+      "http": 200,
+      "id": "rss-1fa4ba19b741d0c5"
+    },
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 422528,
+      "elapsed_ms": 260,
+      "episodes": 60,
+      "error": "",
+      "http": 200,
+      "id": "rss-21dce76b2b78b641"
+    },
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 2114885,
+      "elapsed_ms": 273,
+      "episodes": 628,
+      "error": "",
+      "http": 200,
+      "id": "rss-26beae9404209f3d"
+    },
+    {
+      "audio_type": "audio/mp4",
+      "bytes": 36940,
+      "elapsed_ms": 150,
+      "episodes": 6,
+      "error": "",
+      "http": 200,
+      "id": "rss-2cbce59503f5f894"
+    },
+    {
+      "audio_type": "audio/mp3",
+      "bytes": 3546961,
+      "elapsed_ms": 469,
+      "episodes": 463,
+      "error": "",
+      "http": 200,
+      "id": "rss-4631236d96f34fab"
+    },
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 121371,
+      "elapsed_ms": 112,
+      "episodes": 13,
+      "error": "",
+      "http": 200,
+      "id": "rss-540b4249c6a7bfca"
+    },
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 97599,
+      "elapsed_ms": 113,
+      "episodes": 18,
+      "error": "",
+      "http": 200,
+      "id": "rss-65eceaa0d3b0faf3"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 1026708,
+      "elapsed_ms": 3041,
+      "episodes": 101,
+      "error": "",
+      "http": 200,
+      "id": "rss-6e1d56d905d0b36c"
+    },
+    {
+      "audio_type": "audio/mp4",
+      "bytes": 3029893,
+      "elapsed_ms": 1394,
+      "episodes": 142,
+      "error": "",
+      "http": 200,
+      "id": "rss-7aa57bbddb1ff4a0"
+    },
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 302239,
+      "elapsed_ms": 229,
+      "episodes": 26,
+      "error": "",
+      "http": 200,
+      "id": "rss-abe1238bf1debb60"
+    },
+    {
+      "audio_type": "audio/mp4",
+      "bytes": 652935,
+      "elapsed_ms": 131,
+      "episodes": 45,
+      "error": "",
+      "http": 200,
+      "id": "rss-c465635af671b189"
+    },
+    {
+      "audio_type": "audio/mp4",
+      "bytes": 2050162,
+      "elapsed_ms": 177,
+      "episodes": 179,
+      "error": "",
+      "http": 200,
+      "id": "rss-e6e45c929bd8fb59"
+    },
+    {
+      "audio_type": "audio/mp4",
+      "bytes": 452785,
+      "elapsed_ms": 85,
+      "episodes": 73,
+      "error": "",
+      "http": 200,
+      "id": "rss-e9e3b2f5941f1a0d"
+    },
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 1190342,
+      "elapsed_ms": 193,
+      "episodes": 89,
+      "error": "",
+      "http": 200,
+      "id": "zonghengsihai"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 30169,
+      "elapsed_ms": 1063,
+      "episodes": 30,
+      "error": "",
+      "http": 200,
+      "id": "rss-2b544eae143d7f70"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 1821532,
+      "elapsed_ms": 1461,
+      "episodes": 678,
+      "error": "",
+      "http": 200,
+      "id": "rss-2da4008475990d18"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 7207237,
+      "elapsed_ms": 1470,
+      "episodes": 2850,
+      "error": "",
+      "http": 200,
+      "id": "rss-35a4c2914c5cd3f0"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 1234229,
+      "elapsed_ms": 906,
+      "episodes": 278,
+      "error": "",
+      "http": 200,
+      "id": "rss-3d7cb8189b84b110"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 1234752,
+      "elapsed_ms": 6423,
+      "episodes": 182,
+      "error": "",
+      "http": 200,
+      "id": "rss-4500bb8dd8f6aa12"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 3528154,
+      "elapsed_ms": 4124,
+      "episodes": 1025,
+      "error": "",
+      "http": 200,
+      "id": "rss-51c6c8be778b1473"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 2147799,
+      "elapsed_ms": 3261,
+      "episodes": 396,
+      "error": "",
+      "http": 200,
+      "id": "rss-5297b022e14e82ff"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 4458195,
+      "elapsed_ms": 1443,
+      "episodes": 1760,
+      "error": "",
+      "http": 200,
+      "id": "rss-5c39461e474b38d5"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 512694,
+      "elapsed_ms": 2534,
+      "episodes": 250,
+      "error": "",
+      "http": 200,
+      "id": "rss-716b81a97ac4581f"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 4378263,
+      "elapsed_ms": 2218,
+      "episodes": 928,
+      "error": "",
+      "http": 200,
+      "id": "rss-a99d433de6b702c3"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 2359078,
+      "elapsed_ms": 305,
+      "episodes": 322,
+      "error": "",
+      "http": 200,
+      "id": "rss-df04d40a0bc62dc9"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 863661,
+      "elapsed_ms": 280,
+      "episodes": 348,
+      "error": "",
+      "http": 200,
+      "id": "bbc-six-minute"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 2185944,
+      "elapsed_ms": 383,
+      "episodes": 174,
+      "error": "",
+      "http": 200,
+      "id": "rss-08787d7e462fde1f"
+    },
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 637950,
+      "elapsed_ms": 197,
+      "episodes": 454,
+      "error": "",
+      "http": 200,
+      "id": "rss-15bea97de6f19220"
+    },
+    {
+      "audio_type": "audio/mp4",
+      "bytes": 1501904,
+      "elapsed_ms": 110,
+      "episodes": 158,
+      "error": "",
+      "http": 200,
+      "id": "rss-316e218df50cc78f"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 3121413,
+      "elapsed_ms": 384,
+      "episodes": 185,
+      "error": "",
+      "http": 200,
+      "id": "rss-5f90a6b1eacd7a9c"
+    },
+    {
+      "audio_type": "audio/mp4",
+      "bytes": 726721,
+      "elapsed_ms": 130,
+      "episodes": 77,
+      "error": "",
+      "http": 200,
+      "id": "rss-60be1f01f40ed263"
+    },
+    {
+      "audio_type": "audio/mp4",
+      "bytes": 850470,
+      "elapsed_ms": 93,
+      "episodes": 129,
+      "error": "",
+      "http": 200,
+      "id": "rss-69cfb31c8835147e"
+    },
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 2131085,
+      "elapsed_ms": 277,
+      "episodes": 324,
+      "error": "",
+      "http": 200,
+      "id": "rss-75a2fc271277de8e"
+    },
+    {
+      "audio_type": "audio/mp4",
+      "bytes": 1574885,
+      "elapsed_ms": 157,
+      "episodes": 184,
+      "error": "",
+      "http": 200,
+      "id": "rss-81a80259d26249ff"
+    },
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 10530276,
+      "elapsed_ms": 474,
+      "episodes": 1073,
+      "error": "",
+      "http": 200,
+      "id": "rss-98326abee4285ef2"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 3877724,
+      "elapsed_ms": 470,
+      "episodes": 267,
+      "error": "",
+      "http": 200,
+      "id": "rss-a2521d0a745145d4"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 7636196,
+      "elapsed_ms": 504,
+      "episodes": 436,
+      "error": "",
+      "http": 200,
+      "id": "rss-abe21de5c53c6f5c"
+    },
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 579629,
+      "elapsed_ms": 184,
+      "episodes": 130,
+      "error": "",
+      "http": 200,
+      "id": "rss-b04fb4506f216f03"
+    },
+    {
+      "audio_type": "audio/mp4",
+      "bytes": 2370209,
+      "elapsed_ms": 200,
+      "episodes": 285,
+      "error": "",
+      "http": 200,
+      "id": "rss-d48458cebe315b53"
+    },
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 5568683,
+      "elapsed_ms": 365,
+      "episodes": 241,
+      "error": "",
+      "http": 200,
+      "id": "rss-d6b6c9a2412a6be4"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 73884,
+      "elapsed_ms": 847,
+      "episodes": 14,
+      "error": "",
+      "http": 200,
+      "id": "rss-d890ea9530a0e2b4"
+    },
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 2362655,
+      "elapsed_ms": 258,
+      "episodes": 231,
+      "error": "",
+      "http": 200,
+      "id": "rss-e0991c219fc4fd42"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 422196,
+      "elapsed_ms": 679,
+      "episodes": 150,
+      "error": "",
+      "http": 200,
+      "id": "rss-e889f42f98c8c3a9"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 1448061,
+      "elapsed_ms": 267,
+      "episodes": 277,
+      "error": "",
+      "http": 200,
+      "id": "rss-eefc1ae9f143cbe8"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 4519421,
+      "elapsed_ms": 384,
+      "episodes": 373,
+      "error": "",
+      "http": 200,
+      "id": "thatisbiz"
+    },
+    {
+      "audio_type": "audio/mp4",
+      "bytes": 5215179,
+      "elapsed_ms": 293,
+      "episodes": 270,
+      "error": "",
+      "http": 200,
+      "id": "zhixingjiuguan"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 2204116,
+      "elapsed_ms": 415,
+      "episodes": 355,
+      "error": "",
+      "http": 200,
+      "id": "planet-money"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 2620241,
+      "elapsed_ms": 3106,
+      "episodes": 586,
+      "error": "",
+      "http": 200,
+      "id": "rss-19dceeeca82bb889"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 1921891,
+      "elapsed_ms": 414,
+      "episodes": 443,
+      "error": "",
+      "http": 200,
+      "id": "rss-71a706d9f2f770ae"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 7487589,
+      "elapsed_ms": 4560,
+      "episodes": 605,
+      "error": "",
+      "http": 200,
+      "id": "rss-d2bb973ad31c87da"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 1388075,
+      "elapsed_ms": 764,
+      "episodes": 178,
+      "error": "",
+      "http": 200,
+      "id": "fyfy"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 717852,
+      "elapsed_ms": 285,
+      "episodes": 67,
+      "error": "",
+      "http": 200,
+      "id": "pythonhunter"
+    },
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 306639,
+      "elapsed_ms": 127,
+      "episodes": 40,
+      "error": "",
+      "http": 200,
+      "id": "rss-2af6b3e3724f0a35"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 1075024,
+      "elapsed_ms": 738,
+      "episodes": 154,
+      "error": "",
+      "http": 200,
+      "id": "rss-2b10276f52a5d39a"
+    },
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 707199,
+      "elapsed_ms": 193,
+      "episodes": 124,
+      "error": "",
+      "http": 200,
+      "id": "rss-8e3e445471baf538"
+    },
+    {
+      "audio_type": "audio/mp4",
+      "bytes": 705526,
+      "elapsed_ms": 95,
+      "episodes": 83,
+      "error": "",
+      "http": 200,
+      "id": "rss-9d79b0b3983bd8be"
+    },
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 593983,
+      "elapsed_ms": 151,
+      "episodes": 35,
+      "error": "",
+      "http": 200,
+      "id": "rss-a1142b8f786b1b27"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 667446,
+      "elapsed_ms": 818,
+      "episodes": 101,
+      "error": "",
+      "http": 200,
+      "id": "rss-e68c5e63990ba06b"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 1528787,
+      "elapsed_ms": 796,
+      "episodes": 154,
+      "error": "",
+      "http": 200,
+      "id": "sspai"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 1539937,
+      "elapsed_ms": 1997,
+      "episodes": 503,
+      "error": "",
+      "http": 200,
+      "id": "pythonbytes"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 1889349,
+      "elapsed_ms": 4632,
+      "episodes": 750,
+      "error": "",
+      "http": 200,
+      "id": "rss-0359acbf9bd09936"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 352568,
+      "elapsed_ms": 4739,
+      "episodes": 74,
+      "error": "",
+      "http": 200,
+      "id": "rss-0d00198cf4b65552"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 7380044,
+      "elapsed_ms": 430,
+      "episodes": 309,
+      "error": "",
+      "http": 200,
+      "id": "rss-281051dd122f87e0"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 1935019,
+      "elapsed_ms": 3184,
+      "episodes": 271,
+      "error": "",
+      "http": 200,
+      "id": "rss-2b4f3abcd9ad1201"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 1057705,
+      "elapsed_ms": 2108,
+      "episodes": 183,
+      "error": "",
+      "http": 200,
+      "id": "rss-6135fb2e18452b0a"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 779948,
+      "elapsed_ms": 7241,
+      "episodes": 204,
+      "error": "",
+      "http": 200,
+      "id": "rss-6c85f477a9ebb008"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 3378410,
+      "elapsed_ms": 652,
+      "episodes": 826,
+      "error": "",
+      "http": 200,
+      "id": "rss-6f527d03bfb35933"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 467501,
+      "elapsed_ms": 596,
+      "episodes": 214,
+      "error": "",
+      "http": 200,
+      "id": "rss-72e5396efadbb284"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 6348039,
+      "elapsed_ms": 1528,
+      "episodes": 1111,
+      "error": "",
+      "http": 200,
+      "id": "rss-a4dca2fccb18b0de"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 256729,
+      "elapsed_ms": 496,
+      "episodes": 89,
+      "error": "",
+      "http": 200,
+      "id": "rss-aa11d011cb1c0ac2"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 1184748,
+      "elapsed_ms": 1667,
+      "episodes": 299,
+      "error": "",
+      "http": 200,
+      "id": "rss-ef138d3439d8ce29"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 2809619,
+      "elapsed_ms": 1882,
+      "episodes": 1000,
+      "error": "",
+      "http": 200,
+      "id": "rss-f5a82056f7b951e8"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 1379174,
+      "elapsed_ms": 1920,
+      "episodes": 567,
+      "error": "",
+      "http": 200,
+      "id": "talkpython"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 3537977,
+      "elapsed_ms": 2052,
+      "episodes": 840,
+      "error": "",
+      "http": 200,
+      "id": "99pi"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 801068,
+      "elapsed_ms": 358,
+      "episodes": 129,
+      "error": "",
+      "http": 200,
+      "id": "rss-c3e4f79578097bb0"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 6796941,
+      "elapsed_ms": 1102,
+      "episodes": 435,
+      "error": "",
+      "http": 200,
+      "id": "etw"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 2779975,
+      "elapsed_ms": 227,
+      "episodes": 1733,
+      "error": "",
+      "http": 200,
+      "id": "gcores"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 63768,
+      "elapsed_ms": 1090,
+      "episodes": 18,
+      "error": "",
+      "http": 200,
+      "id": "rss-0005d49017676941"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 1098747,
+      "elapsed_ms": 396,
+      "episodes": 51,
+      "error": "",
+      "http": 200,
+      "id": "rss-2b903eda90b683de"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 89733,
+      "elapsed_ms": 220,
+      "episodes": 11,
+      "error": "",
+      "http": 200,
+      "id": "rss-349ce51cfa9d4985"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 312006,
+      "elapsed_ms": 1328,
+      "episodes": 48,
+      "error": "",
+      "http": 200,
+      "id": "rss-3b8520b089fbfd4c"
+    },
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 816390,
+      "elapsed_ms": 249,
+      "episodes": 91,
+      "error": "",
+      "http": 200,
+      "id": "rss-49bb9e323181ed26"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 1789894,
+      "elapsed_ms": 1718,
+      "episodes": 222,
+      "error": "",
+      "http": 200,
+      "id": "rss-676e313bed58908b"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 351192,
+      "elapsed_ms": 246,
+      "episodes": 101,
+      "error": "",
+      "http": 200,
+      "id": "rss-6d8ed028ed2cf189"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 452623,
+      "elapsed_ms": 237,
+      "episodes": 47,
+      "error": "",
+      "http": 200,
+      "id": "rss-7c083a0b9401abc5"
+    },
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 3728537,
+      "elapsed_ms": 283,
+      "episodes": 578,
+      "error": "",
+      "http": 200,
+      "id": "rss-889ddd3ac2cd5e30"
+    },
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 174733,
+      "elapsed_ms": 132,
+      "episodes": 42,
+      "error": "",
+      "http": 200,
+      "id": "rss-8b3bafc6054ad20c"
+    },
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 480874,
+      "elapsed_ms": 180,
+      "episodes": 74,
+      "error": "",
+      "http": 200,
+      "id": "rss-8d252eb2898219b8"
+    },
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 550211,
+      "elapsed_ms": 173,
+      "episodes": 346,
+      "error": "",
+      "http": 200,
+      "id": "rss-947287162a678621"
+    },
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 2535917,
+      "elapsed_ms": 252,
+      "episodes": 700,
+      "error": "",
+      "http": 200,
+      "id": "rss-97788cdcd7afb0e2"
+    },
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 2034237,
+      "elapsed_ms": 322,
+      "episodes": 367,
+      "error": "",
+      "http": 200,
+      "id": "rss-a01880308d827e9d"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 719667,
+      "elapsed_ms": 280,
+      "episodes": 93,
+      "error": "",
+      "http": 200,
+      "id": "rss-a97d5b0a683db8f7"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 952015,
+      "elapsed_ms": 1401,
+      "episodes": 234,
+      "error": "",
+      "http": 200,
+      "id": "rss-b92847397fcaeecd"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 3856798,
+      "elapsed_ms": 405,
+      "episodes": 297,
+      "error": "",
+      "http": 200,
+      "id": "stovol"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 455161,
+      "elapsed_ms": 1104,
+      "episodes": 81,
+      "error": "",
+      "http": 200,
+      "id": "rss-26dce55b83f8b221"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 1588240,
+      "elapsed_ms": 502,
+      "episodes": 474,
+      "error": "",
+      "http": 200,
+      "id": "rss-76b68ac910163f78"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 511590,
+      "elapsed_ms": 1727,
+      "episodes": 101,
+      "error": "",
+      "http": 200,
+      "id": "rss-d37152e09fffcecf"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 896973,
+      "elapsed_ms": 265,
+      "episodes": 220,
+      "error": "",
+      "http": 200,
+      "id": "rss-d8ddc57d615c9386"
+    },
+    {
+      "audio_type": "audio/mp4",
+      "bytes": 4472409,
+      "elapsed_ms": 515,
+      "episodes": 1000,
+      "error": "",
+      "http": 200,
+      "id": "storyfm"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 1159492,
+      "elapsed_ms": 348,
+      "episodes": 291,
+      "error": "",
+      "http": 200,
+      "id": "bbc-global-news"
+    },
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 457329,
+      "elapsed_ms": 171,
+      "episodes": 221,
+      "error": "",
+      "http": 200,
+      "id": "rss-007910e88ad565b4"
+    },
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 604164,
+      "elapsed_ms": 155,
+      "episodes": 58,
+      "error": "",
+      "http": 200,
+      "id": "rss-0d520c3ed2183b5f"
+    },
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 649510,
+      "elapsed_ms": 191,
+      "episodes": 42,
+      "error": "",
+      "http": 200,
+      "id": "rss-1e990379a0d3b0fb"
+    },
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 420883,
+      "elapsed_ms": 170,
+      "episodes": 106,
+      "error": "",
+      "http": 200,
+      "id": "rss-48b7c74d4bbe42ce"
+    },
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 1612117,
+      "elapsed_ms": 166,
+      "episodes": 620,
+      "error": "",
+      "http": 200,
+      "id": "rss-4a67c1abacfc8cd3"
+    },
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 1410805,
+      "elapsed_ms": 182,
+      "episodes": 211,
+      "error": "",
+      "http": 200,
+      "id": "rss-51fbba2bd2498152"
+    },
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 1622373,
+      "elapsed_ms": 204,
+      "episodes": 171,
+      "error": "",
+      "http": 200,
+      "id": "rss-70e774538f767f95"
+    },
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 1563857,
+      "elapsed_ms": 239,
+      "episodes": 413,
+      "error": "",
+      "http": 200,
+      "id": "rss-727917cbcdfee6ff"
+    },
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 678519,
+      "elapsed_ms": 159,
+      "episodes": 301,
+      "error": "",
+      "http": 200,
+      "id": "rss-7756f490308a3788"
+    },
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 86362,
+      "elapsed_ms": 215,
+      "episodes": 38,
+      "error": "",
+      "http": 200,
+      "id": "rss-7fc8b2f376530f0a"
+    },
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 1563075,
+      "elapsed_ms": 196,
+      "episodes": 383,
+      "error": "",
+      "http": 200,
+      "id": "rss-a145cf6850130846"
+    },
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 103945,
+      "elapsed_ms": 114,
+      "episodes": 20,
+      "error": "",
+      "http": 200,
+      "id": "rss-dce09950d1eaa194"
+    },
+    {
+      "audio_type": "audio/x-m4a",
+      "bytes": 514118,
+      "elapsed_ms": 168,
+      "episodes": 220,
+      "error": "",
+      "http": 200,
+      "id": "rss-e86cd3634e059549"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 1118180,
+      "elapsed_ms": 308,
+      "episodes": 99,
+      "error": "",
+      "http": 200,
+      "id": "rss-f2986806133810a0"
+    },
+    {
+      "audio_type": "audio/mpeg",
+      "bytes": 330006,
+      "elapsed_ms": 279,
+      "episodes": 117,
+      "error": "",
+      "http": 200,
+      "id": "rss-f857ff91c54493ff"
+    }
+  ],
+  "fixtures": [
+    "gzip decompression",
+    "decoded byte limit",
+    "request timeout",
+    "invalid certificate rejected",
+    "TLS verification diagnostics",
+    "lock-wait cancellation"
+  ],
+  "passed": true,
+  "hardware_tested": false
+}

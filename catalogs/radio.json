@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "kind": "radio",
-  "revision": 2,
-  "updated_at": "2026-11-08T13:35:15Z",
+  "revision": 3,
+  "updated_at": "2026-11-08T16:58:15Z",
   "discovery": {
     "provider": "radio-browser",
     "discovery_host": "all.api.radio-browser.info",
@@ -37,11 +37,11 @@
       "playlist_url": "https://somafm.com/groovesalad.pls",
       "streams": [
         {
-          "url": "https://ice2.somafm.com/groovesalad-128-mp3",
+          "url": "https://ice6.somafm.com/groovesalad-128-mp3",
           "codec": "MP3"
         },
         {
-          "url": "https://ice6.somafm.com/groovesalad-128-mp3",
+          "url": "https://ice2.somafm.com/groovesalad-128-mp3",
           "codec": "MP3"
         }
       ],
@@ -54,25 +54,27 @@
       "provenance": "publisher-playlist",
       "enabled": true,
       "availability": "reachable",
-      "last_verified_at": "2026-11-08T13:35:15Z",
+      "last_verified_at": "2026-11-08T16:58:15Z",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
-          {
-            "url": "https://ice2.somafm.com/groovesalad-128-mp3",
-            "http_status": 200,
-            "content_type": "audio/mpeg",
-            "sample_bytes": 4096,
-            "range": null,
-            "transport_only": true,
-            "device_tested": false
-          },
           {
             "url": "https://ice6.somafm.com/groovesalad-128-mp3",
             "http_status": 200,
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
+            "transport_only": true,
+            "device_tested": false
+          },
+          {
+            "url": "https://ice2.somafm.com/groovesalad-128-mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 4096,
+            "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
@@ -88,11 +90,11 @@
       "playlist_url": "https://somafm.com/dronezone.pls",
       "streams": [
         {
-          "url": "https://ice2.somafm.com/dronezone-128-mp3",
+          "url": "https://ice6.somafm.com/dronezone-128-mp3",
           "codec": "MP3"
         },
         {
-          "url": "https://ice6.somafm.com/dronezone-128-mp3",
+          "url": "https://ice2.somafm.com/dronezone-128-mp3",
           "codec": "MP3"
         }
       ],
@@ -105,25 +107,27 @@
       "provenance": "publisher-playlist",
       "enabled": true,
       "availability": "reachable",
-      "last_verified_at": "2026-11-08T13:35:15Z",
+      "last_verified_at": "2026-11-08T16:58:15Z",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
-          {
-            "url": "https://ice2.somafm.com/dronezone-128-mp3",
-            "http_status": 200,
-            "content_type": "audio/mpeg",
-            "sample_bytes": 4096,
-            "range": null,
-            "transport_only": true,
-            "device_tested": false
-          },
           {
             "url": "https://ice6.somafm.com/dronezone-128-mp3",
             "http_status": 200,
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
+            "transport_only": true,
+            "device_tested": false
+          },
+          {
+            "url": "https://ice2.somafm.com/dronezone-128-mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 4096,
+            "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
@@ -139,11 +143,11 @@
       "playlist_url": "https://somafm.com/deepspaceone.pls",
       "streams": [
         {
-          "url": "https://ice2.somafm.com/deepspaceone-128-mp3",
+          "url": "https://ice6.somafm.com/deepspaceone-128-mp3",
           "codec": "MP3"
         },
         {
-          "url": "https://ice6.somafm.com/deepspaceone-128-mp3",
+          "url": "https://ice2.somafm.com/deepspaceone-128-mp3",
           "codec": "MP3"
         }
       ],
@@ -156,25 +160,27 @@
       "provenance": "publisher-playlist",
       "enabled": true,
       "availability": "reachable",
-      "last_verified_at": "2026-11-08T13:35:15Z",
+      "last_verified_at": "2026-11-08T16:58:15Z",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
-          {
-            "url": "https://ice2.somafm.com/deepspaceone-128-mp3",
-            "http_status": 200,
-            "content_type": "audio/mpeg",
-            "sample_bytes": 4096,
-            "range": null,
-            "transport_only": true,
-            "device_tested": false
-          },
           {
             "url": "https://ice6.somafm.com/deepspaceone-128-mp3",
             "http_status": 200,
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
+            "transport_only": true,
+            "device_tested": false
+          },
+          {
+            "url": "https://ice2.somafm.com/deepspaceone-128-mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 4096,
+            "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
@@ -190,11 +196,11 @@
       "playlist_url": "https://somafm.com/secretagent.pls",
       "streams": [
         {
-          "url": "https://ice2.somafm.com/secretagent-128-mp3",
+          "url": "https://ice6.somafm.com/secretagent-128-mp3",
           "codec": "MP3"
         },
         {
-          "url": "https://ice6.somafm.com/secretagent-128-mp3",
+          "url": "https://ice2.somafm.com/secretagent-128-mp3",
           "codec": "MP3"
         }
       ],
@@ -207,25 +213,27 @@
       "provenance": "publisher-playlist",
       "enabled": true,
       "availability": "reachable",
-      "last_verified_at": "2026-11-08T13:35:15Z",
+      "last_verified_at": "2026-11-08T16:58:15Z",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
-          {
-            "url": "https://ice2.somafm.com/secretagent-128-mp3",
-            "http_status": 200,
-            "content_type": "audio/mpeg",
-            "sample_bytes": 4096,
-            "range": null,
-            "transport_only": true,
-            "device_tested": false
-          },
           {
             "url": "https://ice6.somafm.com/secretagent-128-mp3",
             "http_status": 200,
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
+            "transport_only": true,
+            "device_tested": false
+          },
+          {
+            "url": "https://ice2.somafm.com/secretagent-128-mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 4096,
+            "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
@@ -241,11 +249,11 @@
       "playlist_url": "https://somafm.com/indiepop.pls",
       "streams": [
         {
-          "url": "https://ice2.somafm.com/indiepop-128-mp3",
+          "url": "https://ice6.somafm.com/indiepop-128-mp3",
           "codec": "MP3"
         },
         {
-          "url": "https://ice6.somafm.com/indiepop-128-mp3",
+          "url": "https://ice2.somafm.com/indiepop-128-mp3",
           "codec": "MP3"
         }
       ],
@@ -258,25 +266,27 @@
       "provenance": "publisher-playlist",
       "enabled": true,
       "availability": "reachable",
-      "last_verified_at": "2026-11-08T13:35:15Z",
+      "last_verified_at": "2026-11-08T16:58:15Z",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
-          {
-            "url": "https://ice2.somafm.com/indiepop-128-mp3",
-            "http_status": 200,
-            "content_type": "audio/mpeg",
-            "sample_bytes": 4096,
-            "range": null,
-            "transport_only": true,
-            "device_tested": false
-          },
           {
             "url": "https://ice6.somafm.com/indiepop-128-mp3",
             "http_status": 200,
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
+            "transport_only": true,
+            "device_tested": false
+          },
+          {
+            "url": "https://ice2.somafm.com/indiepop-128-mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 4096,
+            "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
@@ -292,11 +302,11 @@
       "playlist_url": "https://somafm.com/lush.pls",
       "streams": [
         {
-          "url": "https://ice2.somafm.com/lush-128-mp3",
+          "url": "https://ice6.somafm.com/lush-128-mp3",
           "codec": "MP3"
         },
         {
-          "url": "https://ice6.somafm.com/lush-128-mp3",
+          "url": "https://ice2.somafm.com/lush-128-mp3",
           "codec": "MP3"
         }
       ],
@@ -309,25 +319,27 @@
       "provenance": "publisher-playlist",
       "enabled": true,
       "availability": "reachable",
-      "last_verified_at": "2026-11-08T13:35:15Z",
+      "last_verified_at": "2026-11-08T16:58:15Z",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
-          {
-            "url": "https://ice2.somafm.com/lush-128-mp3",
-            "http_status": 200,
-            "content_type": "audio/mpeg",
-            "sample_bytes": 4096,
-            "range": null,
-            "transport_only": true,
-            "device_tested": false
-          },
           {
             "url": "https://ice6.somafm.com/lush-128-mp3",
             "http_status": 200,
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
+            "transport_only": true,
+            "device_tested": false
+          },
+          {
+            "url": "https://ice2.somafm.com/lush-128-mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 4096,
+            "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
@@ -343,11 +355,11 @@
       "playlist_url": "https://somafm.com/gsclassic.pls",
       "streams": [
         {
-          "url": "https://ice2.somafm.com/gsclassic-128-mp3",
+          "url": "https://ice6.somafm.com/gsclassic-128-mp3",
           "codec": "MP3"
         },
         {
-          "url": "https://ice6.somafm.com/gsclassic-128-mp3",
+          "url": "https://ice2.somafm.com/gsclassic-128-mp3",
           "codec": "MP3"
         }
       ],
@@ -360,25 +372,27 @@
       "provenance": "publisher-playlist",
       "enabled": true,
       "availability": "reachable",
-      "last_verified_at": "2026-11-08T13:35:15Z",
+      "last_verified_at": "2026-11-08T16:58:15Z",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
-          {
-            "url": "https://ice2.somafm.com/gsclassic-128-mp3",
-            "http_status": 200,
-            "content_type": "audio/mpeg",
-            "sample_bytes": 4096,
-            "range": null,
-            "transport_only": true,
-            "device_tested": false
-          },
           {
             "url": "https://ice6.somafm.com/gsclassic-128-mp3",
             "http_status": 200,
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
+            "transport_only": true,
+            "device_tested": false
+          },
+          {
+            "url": "https://ice2.somafm.com/gsclassic-128-mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 4096,
+            "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
@@ -394,11 +408,11 @@
       "playlist_url": "https://somafm.com/defcon.pls",
       "streams": [
         {
-          "url": "https://ice2.somafm.com/defcon-128-mp3",
+          "url": "https://ice6.somafm.com/defcon-128-mp3",
           "codec": "MP3"
         },
         {
-          "url": "https://ice6.somafm.com/defcon-128-mp3",
+          "url": "https://ice2.somafm.com/defcon-128-mp3",
           "codec": "MP3"
         }
       ],
@@ -411,25 +425,27 @@
       "provenance": "publisher-playlist",
       "enabled": true,
       "availability": "reachable",
-      "last_verified_at": "2026-11-08T13:35:15Z",
+      "last_verified_at": "2026-11-08T16:58:15Z",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
-          {
-            "url": "https://ice2.somafm.com/defcon-128-mp3",
-            "http_status": 200,
-            "content_type": "audio/mpeg",
-            "sample_bytes": 4096,
-            "range": null,
-            "transport_only": true,
-            "device_tested": false
-          },
           {
             "url": "https://ice6.somafm.com/defcon-128-mp3",
             "http_status": 200,
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
+            "transport_only": true,
+            "device_tested": false
+          },
+          {
+            "url": "https://ice2.somafm.com/defcon-128-mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 4096,
+            "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
@@ -457,9 +473,9 @@
       "provenance": "publisher-stream",
       "enabled": true,
       "availability": "reachable",
-      "last_verified_at": "2026-11-08T13:35:15Z",
+      "last_verified_at": "2026-11-08T16:58:15Z",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
           {
             "url": "https://stream.srg-ssr.ch/srgssr/rsj/mp3/128",
@@ -467,6 +483,7 @@
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
@@ -494,9 +511,9 @@
       "provenance": "publisher-stream",
       "enabled": true,
       "availability": "reachable",
-      "last_verified_at": "2026-11-08T13:35:15Z",
+      "last_verified_at": "2026-11-08T16:58:15Z",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
           {
             "url": "https://stream.srg-ssr.ch/srgssr/rsp/mp3/128",
@@ -504,6 +521,7 @@
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
@@ -531,9 +549,9 @@
       "provenance": "publisher-stream",
       "enabled": true,
       "availability": "reachable",
-      "last_verified_at": "2026-11-08T13:35:15Z",
+      "last_verified_at": "2026-11-08T16:58:15Z",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
           {
             "url": "https://stream.srg-ssr.ch/srgssr/rsc_de/mp3/128",
@@ -541,6 +559,7 @@
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
@@ -571,7 +590,7 @@
       "enabled": false,
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
           {
             "url": "https://kexp-mp3-128.streamguys1.com/kexp128.mp3",
@@ -579,6 +598,7 @@
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
@@ -586,7 +606,7 @@
         "transport_only": true,
         "device_tested": false
       },
-      "last_verified_at": "2026-11-08T13:35:15Z"
+      "last_verified_at": "2026-11-08T16:58:15Z"
     },
     {
       "id": "radio-paradise-main",
@@ -609,9 +629,9 @@
       "provenance": "publisher-stream",
       "enabled": true,
       "availability": "reachable",
-      "last_verified_at": "2026-11-08T13:35:15Z",
+      "last_verified_at": "2026-11-08T16:58:15Z",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
           {
             "url": "https://stream.radioparadise.com/mp3-192",
@@ -619,6 +639,7 @@
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
@@ -650,9 +671,9 @@
       "source_url": "https://de1.api.radio-browser.info/json/stations/byuuid/24711f7f-8ff5-4141-8e0f-ab17f3da1b89",
       "enabled": true,
       "availability": "reachable",
-      "last_verified_at": "2026-11-08T13:35:15Z",
+      "last_verified_at": "2026-11-08T16:58:15Z",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
           {
             "url": "https://lhttp.qingting.fm/live/4804/64k.mp3",
@@ -660,6 +681,7 @@
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
@@ -691,9 +713,9 @@
       "source_url": "https://de1.api.radio-browser.info/json/stations/byuuid/835070cd-bf45-4e48-88a4-e9f9a0d7dd9e",
       "enabled": true,
       "availability": "reachable",
-      "last_verified_at": "2026-11-08T13:35:15Z",
+      "last_verified_at": "2026-11-08T16:58:15Z",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
           {
             "url": "https://lhttp.qtfm.cn/live/15318317/64k.mp3",
@@ -701,6 +723,7 @@
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
@@ -732,9 +755,9 @@
       "source_url": "https://de1.api.radio-browser.info/json/stations/byuuid/94de57d1-542a-46b8-8e18-d97517d93f99",
       "enabled": true,
       "availability": "reachable",
-      "last_verified_at": "2026-11-08T13:35:15Z",
+      "last_verified_at": "2026-11-08T16:58:15Z",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
           {
             "url": "http://lhttp.qingting.fm/live/4915/64k.mp3",
@@ -742,6 +765,7 @@
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
@@ -773,9 +797,9 @@
       "source_url": "https://de1.api.radio-browser.info/json/stations/byuuid/9618f097-0601-11e8-ae97-52543be04c81",
       "enabled": true,
       "availability": "reachable",
-      "last_verified_at": "2026-11-08T13:35:15Z",
+      "last_verified_at": "2026-11-08T16:58:15Z",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
           {
             "url": "http://stm.rthk.hk/radio1",
@@ -783,6 +807,7 @@
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
@@ -814,9 +839,9 @@
       "source_url": "https://de1.api.radio-browser.info/json/stations/byuuid/44cea5a0-7466-11e9-af37-52543be04c81",
       "enabled": true,
       "availability": "reachable",
-      "last_verified_at": "2026-11-08T13:35:15Z",
+      "last_verified_at": "2026-11-08T16:58:15Z",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
           {
             "url": "http://lhttp.qingting.fm/live/276/64k.mp3",
@@ -824,6 +849,7 @@
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
@@ -855,9 +881,9 @@
       "source_url": "https://de1.api.radio-browser.info/json/stations/byuuid/eea091f2-750b-11e9-af37-52543be04c81",
       "enabled": true,
       "availability": "reachable",
-      "last_verified_at": "2026-11-08T13:35:15Z",
+      "last_verified_at": "2026-11-08T16:58:15Z",
       "verification": {
-        "checked_at": "2026-11-08T13:35:15Z",
+        "checked_at": "2026-11-08T16:58:15Z",
         "streams": [
           {
             "url": "http://lhttp.qingting.fm/live/270/64k.mp3",
@@ -865,6 +891,7 @@
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
             "range": null,
+            "short_audio_range_fallback": false,
             "transport_only": true,
             "device_tested": false
           }
