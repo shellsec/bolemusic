@@ -1,0 +1,494 @@
+{
+  "schema_version": 1,
+  "kind": "podcasts",
+  "revision": 1,
+  "updated_at": "2026-11-08T07:21:02Z",
+  "channels": [
+    {
+      "id": "bbc-six-minute",
+      "name": "BBC 6 Minute English",
+      "feed_url": "https://podcasts.files.bbci.co.uk/p02pc9tn.rss",
+      "homepage": "https://www.bbc.co.uk/learningenglish",
+      "language": "en",
+      "categories": [
+        "learning"
+      ],
+      "description": "短篇英语听力与词汇学习",
+      "enabled": true,
+      "provenance": "publisher-rss",
+      "availability": "reachable",
+      "artwork_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0hxqkd0.jpg",
+      "latest_publication": "Thu, 05 Nov 2026 09:36:00 +0000",
+      "feed_audio_type": "audio/mpeg",
+      "feed_episode_count": 348,
+      "verification": {
+        "checked_at": "2026-11-08T07:21:02Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/3879312",
+          "transport_only": true,
+          "device_tested": false
+        }
+      },
+      "last_verified_at": "2026-11-08T07:21:02Z",
+      "rank": 20
+    },
+    {
+      "id": "thatisbiz",
+      "name": "商业就是这样",
+      "feed_url": "https://feeds.fireside.fm/thatisbiz/rss",
+      "homepage": "https://thatisbiz.fireside.fm/",
+      "language": "zh",
+      "categories": [
+        "business"
+      ],
+      "description": "商业案例与经济生活",
+      "enabled": true,
+      "availability": "reachable",
+      "artwork_url": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/9/9a91414e-51b0-42ae-bee7-2c17d3c1c146/cover.jpg?v=4",
+      "rank": 100,
+      "latest_publication": "Thu, 05 Nov 2026 07:00:00 +0800",
+      "feed_audio_type": "audio/mpeg",
+      "feed_episode_count": 373,
+      "verification": {
+        "checked_at": "2026-11-08T07:21:02Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/37383852",
+          "transport_only": true,
+          "device_tested": false
+        }
+      },
+      "last_verified_at": "2026-11-08T07:21:02Z"
+    },
+    {
+      "id": "planet-money",
+      "name": "Planet Money",
+      "feed_url": "https://feeds.npr.org/510289/podcast.xml",
+      "homepage": "https://www.npr.org/podcasts/510289/planet-money",
+      "language": "en",
+      "categories": [
+        "business"
+      ],
+      "description": "用故事解释经济现象",
+      "enabled": true,
+      "provenance": "publisher-rss",
+      "availability": "reachable",
+      "artwork_url": "https://media.npr.org/assets/img/2022/10/24/pm_new_tile_2022_sq-e543deddd0a46a98be481b46e6a72efa6b52236f.jpg?s=1400&c=66&f=jpg",
+      "latest_publication": "Fri, 06 Nov 2026 22:30:00 +0000",
+      "feed_audio_type": "audio/mpeg",
+      "feed_episode_count": 355,
+      "verification": {
+        "checked_at": "2026-11-08T07:21:02Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/33980572",
+          "transport_only": true,
+          "device_tested": false
+        }
+      },
+      "last_verified_at": "2026-11-08T07:21:02Z",
+      "rank": 120
+    },
+    {
+      "id": "fyfy",
+      "name": "枫言枫语",
+      "feed_url": "https://justinyan.me/feed/podcast",
+      "homepage": "https://fyfy.fm",
+      "language": "zh",
+      "categories": [
+        "technology",
+        "life"
+      ],
+      "description": "科技产品、工作与日常生活",
+      "enabled": true,
+      "provenance": "publisher-rss",
+      "availability": "reachable",
+      "artwork_url": "https://cdn.justinbot.com/wp-content/uploads/2020/02/Podcast-Cover1400.png",
+      "latest_publication": "Thu, 05 Nov 2026 07:11:34 +0800",
+      "feed_audio_type": "audio/mpeg",
+      "feed_episode_count": 178,
+      "verification": {
+        "checked_at": "2026-11-08T07:21:02Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/73292698",
+          "transport_only": true,
+          "device_tested": false
+        }
+      },
+      "last_verified_at": "2026-11-08T07:21:02Z",
+      "rank": 200
+    },
+    {
+      "id": "pythonhunter",
+      "name": "捕蛇者说",
+      "feed_url": "https://pythonhunter.org/feed/audio.xml",
+      "homepage": "https://pythonhunter.org",
+      "language": "zh",
+      "categories": [
+        "technology"
+      ],
+      "description": "编程实践与开发者访谈",
+      "enabled": true,
+      "provenance": "publisher-rss",
+      "availability": "reachable",
+      "artwork_url": "https://i.typlog.com/pythonhunter/8444690454_041962.png?x-oss-process=style/sl",
+      "latest_publication": "Mon, 15 Jun 2026 21:43:19 +0000",
+      "feed_audio_type": "audio/mpeg",
+      "feed_episode_count": 67,
+      "verification": {
+        "checked_at": "2026-11-08T07:21:02Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/76802088",
+          "transport_only": true,
+          "device_tested": false
+        }
+      },
+      "last_verified_at": "2026-11-08T07:21:02Z",
+      "rank": 200
+    },
+    {
+      "id": "sspai",
+      "name": "少数派播客",
+      "feed_url": "https://sspai.typlog.io/feed/audio.xml",
+      "homepage": "https://sspai.typlog.io",
+      "language": "zh",
+      "categories": [
+        "technology"
+      ],
+      "description": "数码产品、效率工具与创作者访谈",
+      "enabled": true,
+      "provenance": "publisher-rss",
+      "availability": "reachable",
+      "artwork_url": "https://i.typlog.com/sspai/8339963934_163514.png?x-oss-process=style/sl",
+      "latest_publication": "Tue, 16 Jun 2026 03:09:31 +0000",
+      "feed_audio_type": "audio/mpeg",
+      "feed_episode_count": 154,
+      "verification": {
+        "checked_at": "2026-11-08T07:21:02Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/85232749",
+          "transport_only": true,
+          "device_tested": false
+        }
+      },
+      "last_verified_at": "2026-11-08T07:21:02Z",
+      "rank": 200
+    },
+    {
+      "id": "pythonbytes",
+      "name": "Python Bytes",
+      "feed_url": "https://pythonbytes.fm/episodes/rss",
+      "homepage": "https://pythonbytes.fm",
+      "language": "en",
+      "categories": [
+        "technology"
+      ],
+      "description": "Python 工具与开发资讯",
+      "enabled": true,
+      "provenance": "publisher-rss",
+      "availability": "reachable",
+      "artwork_url": "https://cdn.pythonbytes.fm/static/img/podcast-theme-img_3000.jpg",
+      "latest_publication": "Tue, 03 Nov 2026 03:41:57 +0000",
+      "feed_audio_type": "audio/mpeg",
+      "feed_episode_count": 503,
+      "verification": {
+        "checked_at": "2026-11-08T07:21:02Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/29265644",
+          "transport_only": true,
+          "device_tested": false
+        }
+      },
+      "last_verified_at": "2026-11-08T07:21:02Z",
+      "rank": 220
+    },
+    {
+      "id": "talkpython",
+      "name": "Talk Python To Me",
+      "feed_url": "https://talkpython.fm/episodes/rss",
+      "homepage": "https://talkpython.fm",
+      "language": "en",
+      "categories": [
+        "technology"
+      ],
+      "description": "Python 开发、数据科学与技术访谈",
+      "enabled": true,
+      "provenance": "publisher-rss",
+      "availability": "reachable",
+      "artwork_url": "https://cdn-podcast.talkpython.fm/static/img/talk-python-3000.jpg",
+      "latest_publication": "Tue, 03 Nov 2026 20:33:06 +0000",
+      "feed_audio_type": "audio/mpeg",
+      "feed_episode_count": 567,
+      "verification": {
+        "checked_at": "2026-11-08T07:21:02Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/60001382",
+          "transport_only": true,
+          "device_tested": false
+        }
+      },
+      "last_verified_at": "2026-11-08T07:21:02Z",
+      "rank": 220
+    },
+    {
+      "id": "etw",
+      "name": "声东击西",
+      "feed_url": "https://etw.fm/rss",
+      "homepage": "https://etw.fm",
+      "language": "zh",
+      "categories": [
+        "culture"
+      ],
+      "description": "深度访谈与社会观察",
+      "enabled": true,
+      "provenance": "publisher-rss",
+      "availability": "reachable",
+      "artwork_url": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4",
+      "latest_publication": "Thu, 05 Nov 2026 18:15:00 +0800",
+      "feed_audio_type": "audio/mpeg",
+      "feed_episode_count": 435,
+      "verification": {
+        "checked_at": "2026-11-08T07:21:02Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/129348472",
+          "transport_only": true,
+          "device_tested": false
+        }
+      },
+      "last_verified_at": "2026-11-08T07:21:02Z",
+      "rank": 300
+    },
+    {
+      "id": "gcores",
+      "name": "机核游戏频道",
+      "feed_url": "https://alioss.gcores.com/feeds/apple_podcast_v1.xml",
+      "homepage": "https://www.gcores.com",
+      "language": "zh",
+      "categories": [
+        "games",
+        "culture"
+      ],
+      "description": "游戏文化、创作访谈与玩家故事",
+      "enabled": true,
+      "provenance": "publisher-rss",
+      "availability": "reachable",
+      "artwork_url": "https://alioss.gcores.com/download/podcast/gadio.png?v=1",
+      "latest_publication": "Sat, 07 Nov 2026 23:00:00 +0800",
+      "feed_audio_type": "audio/mpeg",
+      "feed_episode_count": 1733,
+      "verification": {
+        "checked_at": "2026-11-08T07:21:02Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/102978156",
+          "transport_only": true,
+          "device_tested": false
+        }
+      },
+      "last_verified_at": "2026-11-08T07:21:02Z",
+      "rank": 300
+    },
+    {
+      "id": "stovol",
+      "name": "随机波动",
+      "feed_url": "https://feeds.fireside.fm/stovol/rss",
+      "homepage": "https://www.stovol.com",
+      "language": "zh",
+      "categories": [
+        "culture"
+      ],
+      "description": "文化、阅读与社会观察",
+      "enabled": true,
+      "provenance": "publisher-rss",
+      "availability": "reachable",
+      "artwork_url": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/a/a05075d5-4f3a-45ac-afff-580f795c5d77/cover.jpg?v=1",
+      "latest_publication": "Wed, 04 Nov 2026 12:00:00 +0800",
+      "feed_audio_type": "audio/mpeg",
+      "feed_episode_count": 297,
+      "verification": {
+        "checked_at": "2026-11-08T07:21:02Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/126894709",
+          "transport_only": true,
+          "device_tested": false
+        }
+      },
+      "last_verified_at": "2026-11-08T07:21:02Z",
+      "rank": 300
+    },
+    {
+      "id": "99pi",
+      "name": "99% Invisible",
+      "feed_url": "https://feeds.99percentinvisible.org/99percentinvisible",
+      "homepage": "https://99percentinvisible.org",
+      "language": "en",
+      "categories": [
+        "culture",
+        "design"
+      ],
+      "description": "设计、建筑与日常事物背后的故事",
+      "enabled": true,
+      "provenance": "publisher-rss",
+      "availability": "reachable",
+      "artwork_url": "https://image.simplecastcdn.com/images/8436e3c1-2479-4466-ac48-fa58259960bb/a6d5b177-ab5d-430d-b3f2-b393a09d8101/3000x3000/sxm-cover-99percentinvisible-r2025-3000x3000-final.jpg?aid=rss_feed",
+      "latest_publication": "Fri, 6 Nov 2026 08:00:00 +0000",
+      "feed_audio_type": "audio/mpeg",
+      "feed_episode_count": 840,
+      "verification": {
+        "checked_at": "2026-11-08T07:21:02Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/40309432",
+          "transport_only": true,
+          "device_tested": false
+        }
+      },
+      "last_verified_at": "2026-11-08T07:21:02Z",
+      "rank": 320
+    },
+    {
+      "id": "bbc-global-news",
+      "name": "BBC Global News Podcast",
+      "feed_url": "https://podcasts.files.bbci.co.uk/p02nq0gn.rss",
+      "homepage": "https://www.bbc.co.uk/programmes/p02nq0gn",
+      "language": "en",
+      "categories": [
+        "news"
+      ],
+      "description": "英语新闻节目",
+      "enabled": true,
+      "provenance": "publisher-rss",
+      "availability": "reachable",
+      "artwork_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0pc2j9y.jpg",
+      "latest_publication": "Sun, 08 Nov 2026 04:44:00 +0000",
+      "feed_audio_type": "audio/mpeg",
+      "feed_episode_count": 292,
+      "verification": {
+        "checked_at": "2026-11-08T07:21:02Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mpeg",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/15215064",
+          "transport_only": true,
+          "device_tested": false
+        }
+      },
+      "last_verified_at": "2026-11-08T07:21:02Z",
+      "rank": 520
+    },
+    {
+      "id": "storyfm",
+      "name": "故事 FM",
+      "feed_url": "https://feeds.storyfm.cn/storyfm.xml",
+      "homepage": "https://storyfm.cn",
+      "language": "zh",
+      "categories": [
+        "stories"
+      ],
+      "description": "普通人的亲历故事与纪实",
+      "enabled": true,
+      "provenance": "publisher-rss",
+      "availability": "reachable",
+      "artwork_url": "https://media-one.wavpub.com/covers/1ebcbf5d-9dd2-4b69-b681-b54c22541cf2/977035cf6ab63b6e.png",
+      "latest_publication": "Wed, 04 Nov 2026 20:00:55 +0800",
+      "feed_audio_type": "audio/mp4",
+      "feed_episode_count": 1000,
+      "verification": {
+        "checked_at": "2026-11-08T07:21:02Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/39845072",
+          "transport_only": true,
+          "device_tested": false
+        }
+      },
+      "last_verified_at": "2026-11-08T07:21:02Z",
+      "rank": 700
+    }
+  ],
+  "category_order": [
+    "learning",
+    "business",
+    "technology",
+    "culture",
+    "design",
+    "news",
+    "life",
+    "stories",
+    "games"
+  ],
+  "category_labels": {
+    "learning": "学习成长",
+    "business": "经济商业",
+    "technology": "科技知识",
+    "culture": "人文视野",
+    "design": "设计知识",
+    "news": "新闻资讯",
+    "life": "生活方式",
+    "stories": "故事纪实",
+    "games": "游戏娱乐"
+  }
+}

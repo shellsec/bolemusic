@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "kind": "bolemusic-content",
+  "revision": 1,
+  "updated_at": "2026-11-08T07:21:02Z",
+  "catalogs": {
+    "podcasts": {
+      "url": "https://raw.githubusercontent.com/shellsec/bolemusic/master/catalogs/podcasts.json",
+      "accelerated_url": "https://gh-proxy.com/https://raw.githubusercontent.com/shellsec/bolemusic/master/catalogs/podcasts.json",
+      "sha256": "94c5f082b2ebd635ca93a35c2c0fc866844aa80e5aba9001dba69b390a226a1c",
+      "bytes": 16746
+    },
+    "radio": {
+      "url": "https://raw.githubusercontent.com/shellsec/bolemusic/master/catalogs/radio.json",
+      "accelerated_url": "https://gh-proxy.com/https://raw.githubusercontent.com/shellsec/bolemusic/master/catalogs/radio.json",
+      "sha256": "f0d527f604f923d35463d7e1ea0b2881ca12cd948fa5f93a710289e21a8ce820",
+      "bytes": 26235
+    }
+  },
+  "delivery": {
+    "primary": "https://gh-proxy.com/https://raw.githubusercontent.com/shellsec/bolemusic/master/catalog.json",
+    "fallback": "https://raw.githubusercontent.com/shellsec/bolemusic/master/catalog.json",
+    "max_catalog_bytes": 2097152,
+    "keep_last_good": true,
+    "refresh_hours": 24
+  },
+  "merge_policy": {
+    "stable_ids": true,
+    "preserve_user_subscriptions": true,
+    "preserve_favorites": true,
+    "preserve_progress": true,
+    "preserve_downloads": true
+  }
+}
