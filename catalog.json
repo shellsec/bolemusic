@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
   "kind": "bolemusic-content",
-  "revision": 1,
-  "updated_at": "2026-11-08T07:21:02Z",
+  "revision": 2,
+  "updated_at": "2026-11-08T13:35:15Z",
   "catalogs": {
     "podcasts": {
       "url": "https://raw.githubusercontent.com/shellsec/bolemusic/master/catalogs/podcasts.json",
       "accelerated_url": "https://gh-proxy.com/https://raw.githubusercontent.com/shellsec/bolemusic/master/catalogs/podcasts.json",
-      "sha256": "94c5f082b2ebd635ca93a35c2c0fc866844aa80e5aba9001dba69b390a226a1c",
-      "bytes": 16746
+      "sha256": "0b8113fc2a033ba3074b65aaf4d111dadfbfe0bbbdfcfbb33c6d6fb90ee5c9e8",
+      "bytes": 19310
     },
     "radio": {
       "url": "https://raw.githubusercontent.com/shellsec/bolemusic/master/catalogs/radio.json",
       "accelerated_url": "https://gh-proxy.com/https://raw.githubusercontent.com/shellsec/bolemusic/master/catalogs/radio.json",
-      "sha256": "f0d527f604f923d35463d7e1ea0b2881ca12cd948fa5f93a710289e21a8ce820",
+      "sha256": "5d380ac0d4da898d2aad12c8c2d1e13a4ceb0583bc58b1491b5b004164f638b0",
       "bytes": 26235
     }
   },

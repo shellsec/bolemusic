@@ -1,19 +1,36 @@
 {
-  "checked_at": "2026-11-08T07:21:02Z",
+  "checked_at": "2026-11-08T13:35:15Z",
   "scope": "RSS XML and bounded HTTP audio samples; no full decoding or Switch device certification",
   "podcasts": [
+    {
+      "id": "zonghengsihai",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T13:35:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/109381292",
+          "transport_only": true,
+          "device_tested": false
+        }
+      }
+    },
     {
       "id": "bbc-six-minute",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
           "http_status": 206,
           "content_type": "audio/mpeg",
           "sample_bytes": 4096,
-          "range": "bytes 1048576-1052671/3879312",
+          "range": "bytes 1048576-1052671/3269931",
           "transport_only": true,
           "device_tested": false
         }
@@ -23,7 +40,7 @@
       "id": "thatisbiz",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
@@ -37,10 +54,27 @@
       }
     },
     {
+      "id": "zhixingjiuguan",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-08T13:35:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/73614049",
+          "transport_only": true,
+          "device_tested": false
+        }
+      }
+    },
+    {
       "id": "planet-money",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
@@ -57,7 +91,7 @@
       "id": "fyfy",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
@@ -74,7 +108,7 @@
       "id": "pythonhunter",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
@@ -91,7 +125,7 @@
       "id": "sspai",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
@@ -108,7 +142,7 @@
       "id": "pythonbytes",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
@@ -125,7 +159,7 @@
       "id": "talkpython",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
@@ -142,7 +176,7 @@
       "id": "etw",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
@@ -159,7 +193,7 @@
       "id": "gcores",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
@@ -176,7 +210,7 @@
       "id": "stovol",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
@@ -193,7 +227,7 @@
       "id": "99pi",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
@@ -210,14 +244,14 @@
       "id": "bbc-global-news",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
           "http_status": 206,
           "content_type": "audio/mpeg",
           "sample_bytes": 4096,
-          "range": "bytes 1048576-1052671/15215064",
+          "range": "bytes 1048576-1052671/14928346",
           "transport_only": true,
           "device_tested": false
         }
@@ -227,7 +261,7 @@
       "id": "storyfm",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
@@ -246,10 +280,10 @@
       "id": "somafm-groovesalad",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "streams": [
           {
-            "url": "https://ice6.somafm.com/groovesalad-128-mp3",
+            "url": "https://ice2.somafm.com/groovesalad-128-mp3",
             "http_status": 200,
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
@@ -258,7 +292,7 @@
             "device_tested": false
           },
           {
-            "url": "https://ice2.somafm.com/groovesalad-128-mp3",
+            "url": "https://ice6.somafm.com/groovesalad-128-mp3",
             "http_status": 200,
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
@@ -275,10 +309,10 @@
       "id": "somafm-dronezone",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "streams": [
           {
-            "url": "https://ice6.somafm.com/dronezone-128-mp3",
+            "url": "https://ice2.somafm.com/dronezone-128-mp3",
             "http_status": 200,
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
@@ -287,7 +321,7 @@
             "device_tested": false
           },
           {
-            "url": "https://ice2.somafm.com/dronezone-128-mp3",
+            "url": "https://ice6.somafm.com/dronezone-128-mp3",
             "http_status": 200,
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
@@ -304,10 +338,10 @@
       "id": "somafm-deepspaceone",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "streams": [
           {
-            "url": "https://ice6.somafm.com/deepspaceone-128-mp3",
+            "url": "https://ice2.somafm.com/deepspaceone-128-mp3",
             "http_status": 200,
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
@@ -316,7 +350,7 @@
             "device_tested": false
           },
           {
-            "url": "https://ice2.somafm.com/deepspaceone-128-mp3",
+            "url": "https://ice6.somafm.com/deepspaceone-128-mp3",
             "http_status": 200,
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
@@ -333,10 +367,10 @@
       "id": "somafm-secretagent",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "streams": [
           {
-            "url": "https://ice6.somafm.com/secretagent-128-mp3",
+            "url": "https://ice2.somafm.com/secretagent-128-mp3",
             "http_status": 200,
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
@@ -345,7 +379,7 @@
             "device_tested": false
           },
           {
-            "url": "https://ice2.somafm.com/secretagent-128-mp3",
+            "url": "https://ice6.somafm.com/secretagent-128-mp3",
             "http_status": 200,
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
@@ -362,10 +396,10 @@
       "id": "somafm-indiepop",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "streams": [
           {
-            "url": "https://ice6.somafm.com/indiepop-128-mp3",
+            "url": "https://ice2.somafm.com/indiepop-128-mp3",
             "http_status": 200,
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
@@ -374,7 +408,7 @@
             "device_tested": false
           },
           {
-            "url": "https://ice2.somafm.com/indiepop-128-mp3",
+            "url": "https://ice6.somafm.com/indiepop-128-mp3",
             "http_status": 200,
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
@@ -391,10 +425,10 @@
       "id": "somafm-lush",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "streams": [
           {
-            "url": "https://ice6.somafm.com/lush-128-mp3",
+            "url": "https://ice2.somafm.com/lush-128-mp3",
             "http_status": 200,
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
@@ -403,7 +437,7 @@
             "device_tested": false
           },
           {
-            "url": "https://ice2.somafm.com/lush-128-mp3",
+            "url": "https://ice6.somafm.com/lush-128-mp3",
             "http_status": 200,
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
@@ -420,10 +454,10 @@
       "id": "somafm-gsclassic",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "streams": [
           {
-            "url": "https://ice6.somafm.com/gsclassic-128-mp3",
+            "url": "https://ice2.somafm.com/gsclassic-128-mp3",
             "http_status": 200,
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
@@ -432,7 +466,7 @@
             "device_tested": false
           },
           {
-            "url": "https://ice2.somafm.com/gsclassic-128-mp3",
+            "url": "https://ice6.somafm.com/gsclassic-128-mp3",
             "http_status": 200,
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
@@ -449,10 +483,10 @@
       "id": "somafm-defcon",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "streams": [
           {
-            "url": "https://ice6.somafm.com/defcon-128-mp3",
+            "url": "https://ice2.somafm.com/defcon-128-mp3",
             "http_status": 200,
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
@@ -461,7 +495,7 @@
             "device_tested": false
           },
           {
-            "url": "https://ice2.somafm.com/defcon-128-mp3",
+            "url": "https://ice6.somafm.com/defcon-128-mp3",
             "http_status": 200,
             "content_type": "audio/mpeg",
             "sample_bytes": 4096,
@@ -478,7 +512,7 @@
       "id": "swiss-jazz",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "streams": [
           {
             "url": "https://stream.srg-ssr.ch/srgssr/rsj/mp3/128",
@@ -498,7 +532,7 @@
       "id": "swiss-pop",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "streams": [
           {
             "url": "https://stream.srg-ssr.ch/srgssr/rsp/mp3/128",
@@ -518,7 +552,7 @@
       "id": "swiss-classic",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "streams": [
           {
             "url": "https://stream.srg-ssr.ch/srgssr/rsc_de/mp3/128",
@@ -538,7 +572,7 @@
       "id": "kexp",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "streams": [
           {
             "url": "https://kexp-mp3-128.streamguys1.com/kexp128.mp3",
@@ -558,7 +592,7 @@
       "id": "radio-paradise-main",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "streams": [
           {
             "url": "https://stream.radioparadise.com/mp3-192",
@@ -578,7 +612,7 @@
       "id": "rb-24711f7f-8ff5-4141-8e0f-ab17f3da1b89",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "streams": [
           {
             "url": "https://lhttp.qingting.fm/live/4804/64k.mp3",
@@ -598,7 +632,7 @@
       "id": "rb-835070cd-bf45-4e48-88a4-e9f9a0d7dd9e",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "streams": [
           {
             "url": "https://lhttp.qtfm.cn/live/15318317/64k.mp3",
@@ -618,7 +652,7 @@
       "id": "rb-94de57d1-542a-46b8-8e18-d97517d93f99",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "streams": [
           {
             "url": "http://lhttp.qingting.fm/live/4915/64k.mp3",
@@ -638,7 +672,7 @@
       "id": "rb-9618f097-0601-11e8-ae97-52543be04c81",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "streams": [
           {
             "url": "http://stm.rthk.hk/radio1",
@@ -658,7 +692,7 @@
       "id": "rb-44cea5a0-7466-11e9-af37-52543be04c81",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "streams": [
           {
             "url": "http://lhttp.qingting.fm/live/276/64k.mp3",
@@ -678,7 +712,7 @@
       "id": "rb-eea091f2-750b-11e9-af37-52543be04c81",
       "availability": "reachable",
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "streams": [
           {
             "url": "http://lhttp.qingting.fm/live/270/64k.mp3",

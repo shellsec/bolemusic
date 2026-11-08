@@ -1,9 +1,44 @@
 {
   "schema_version": 1,
   "kind": "podcasts",
-  "revision": 1,
-  "updated_at": "2026-11-08T07:21:02Z",
+  "revision": 2,
+  "updated_at": "2026-11-08T13:35:15Z",
   "channels": [
+    {
+      "id": "zonghengsihai",
+      "name": "纵横四海",
+      "feed_url": "https://www.ximalaya.com/album/67531569.xml",
+      "homepage": "https://podcasts.apple.com/podcast/id1671490972",
+      "language": "zh",
+      "categories": [
+        "learning",
+        "business"
+      ],
+      "description": "通过读书讨论学习方法、生活与经济议题",
+      "enabled": true,
+      "provenance": "publisher-rss-via-apple-directory",
+      "source_url": "https://itunes.apple.com/lookup?id=1671490972&entity=podcast",
+      "availability": "reachable",
+      "artwork_url": "https://fdfs.xmcdn.com/storages/6577-audiofreehighqps/51/A1/GAqhcW4Nvm6IAAVJ9wSObs6r.jpeg",
+      "rank": 0,
+      "latest_publication": "Mon, 21 Sep 2026 14:07:00 GMT",
+      "feed_audio_type": "audio/x-m4a",
+      "feed_episode_count": 89,
+      "verification": {
+        "checked_at": "2026-11-08T13:35:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/109381292",
+          "transport_only": true,
+          "device_tested": false
+        }
+      },
+      "last_verified_at": "2026-11-08T13:35:15Z"
+    },
     {
       "id": "bbc-six-minute",
       "name": "BBC 6 Minute English",
@@ -22,19 +57,19 @@
       "feed_audio_type": "audio/mpeg",
       "feed_episode_count": 348,
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
           "http_status": 206,
           "content_type": "audio/mpeg",
           "sample_bytes": 4096,
-          "range": "bytes 1048576-1052671/3879312",
+          "range": "bytes 1048576-1052671/3269931",
           "transport_only": true,
           "device_tested": false
         }
       },
-      "last_verified_at": "2026-11-08T07:21:02Z",
+      "last_verified_at": "2026-11-08T13:35:15Z",
       "rank": 20
     },
     {
@@ -55,7 +90,7 @@
       "feed_audio_type": "audio/mpeg",
       "feed_episode_count": 373,
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
@@ -67,7 +102,42 @@
           "device_tested": false
         }
       },
-      "last_verified_at": "2026-11-08T07:21:02Z"
+      "last_verified_at": "2026-11-08T13:35:15Z"
+    },
+    {
+      "id": "zhixingjiuguan",
+      "name": "知行小酒馆",
+      "feed_url": "https://feed.xyzfm.space/j8yp8gxkmgqr",
+      "homepage": "https://youzhiyouxing.cn/",
+      "language": "zh",
+      "categories": [
+        "business",
+        "life"
+      ],
+      "description": "投资常识、经济生活与个人成长",
+      "enabled": true,
+      "provenance": "publisher-rss-via-apple-directory",
+      "source_url": "https://itunes.apple.com/lookup?id=1559695855&entity=podcast",
+      "availability": "reachable",
+      "artwork_url": "https://image.xyzcdn.net/Fso6ZPHSi62eZJOLhorcqpx8TEwv.jpg",
+      "rank": 100,
+      "latest_publication": "Fri, 06 Nov 2026 12:00:00 GMT",
+      "feed_audio_type": "audio/mp4",
+      "feed_episode_count": 270,
+      "verification": {
+        "checked_at": "2026-11-08T13:35:15Z",
+        "rss_http_status": 200,
+        "guid_present": true,
+        "audio": {
+          "http_status": 206,
+          "content_type": "audio/mp4",
+          "sample_bytes": 4096,
+          "range": "bytes 1048576-1052671/73614049",
+          "transport_only": true,
+          "device_tested": false
+        }
+      },
+      "last_verified_at": "2026-11-08T13:35:15Z"
     },
     {
       "id": "planet-money",
@@ -87,7 +157,7 @@
       "feed_audio_type": "audio/mpeg",
       "feed_episode_count": 355,
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
@@ -99,7 +169,7 @@
           "device_tested": false
         }
       },
-      "last_verified_at": "2026-11-08T07:21:02Z",
+      "last_verified_at": "2026-11-08T13:35:15Z",
       "rank": 120
     },
     {
@@ -121,7 +191,7 @@
       "feed_audio_type": "audio/mpeg",
       "feed_episode_count": 178,
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
@@ -133,7 +203,7 @@
           "device_tested": false
         }
       },
-      "last_verified_at": "2026-11-08T07:21:02Z",
+      "last_verified_at": "2026-11-08T13:35:15Z",
       "rank": 200
     },
     {
@@ -154,7 +224,7 @@
       "feed_audio_type": "audio/mpeg",
       "feed_episode_count": 67,
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
@@ -166,7 +236,7 @@
           "device_tested": false
         }
       },
-      "last_verified_at": "2026-11-08T07:21:02Z",
+      "last_verified_at": "2026-11-08T13:35:15Z",
       "rank": 200
     },
     {
@@ -187,7 +257,7 @@
       "feed_audio_type": "audio/mpeg",
       "feed_episode_count": 154,
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
@@ -199,7 +269,7 @@
           "device_tested": false
         }
       },
-      "last_verified_at": "2026-11-08T07:21:02Z",
+      "last_verified_at": "2026-11-08T13:35:15Z",
       "rank": 200
     },
     {
@@ -220,7 +290,7 @@
       "feed_audio_type": "audio/mpeg",
       "feed_episode_count": 503,
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
@@ -232,7 +302,7 @@
           "device_tested": false
         }
       },
-      "last_verified_at": "2026-11-08T07:21:02Z",
+      "last_verified_at": "2026-11-08T13:35:15Z",
       "rank": 220
     },
     {
@@ -253,7 +323,7 @@
       "feed_audio_type": "audio/mpeg",
       "feed_episode_count": 567,
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
@@ -265,7 +335,7 @@
           "device_tested": false
         }
       },
-      "last_verified_at": "2026-11-08T07:21:02Z",
+      "last_verified_at": "2026-11-08T13:35:15Z",
       "rank": 220
     },
     {
@@ -286,7 +356,7 @@
       "feed_audio_type": "audio/mpeg",
       "feed_episode_count": 435,
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
@@ -298,7 +368,7 @@
           "device_tested": false
         }
       },
-      "last_verified_at": "2026-11-08T07:21:02Z",
+      "last_verified_at": "2026-11-08T13:35:15Z",
       "rank": 300
     },
     {
@@ -320,7 +390,7 @@
       "feed_audio_type": "audio/mpeg",
       "feed_episode_count": 1733,
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
@@ -332,7 +402,7 @@
           "device_tested": false
         }
       },
-      "last_verified_at": "2026-11-08T07:21:02Z",
+      "last_verified_at": "2026-11-08T13:35:15Z",
       "rank": 300
     },
     {
@@ -353,7 +423,7 @@
       "feed_audio_type": "audio/mpeg",
       "feed_episode_count": 297,
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
@@ -365,7 +435,7 @@
           "device_tested": false
         }
       },
-      "last_verified_at": "2026-11-08T07:21:02Z",
+      "last_verified_at": "2026-11-08T13:35:15Z",
       "rank": 300
     },
     {
@@ -387,7 +457,7 @@
       "feed_audio_type": "audio/mpeg",
       "feed_episode_count": 840,
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
@@ -399,7 +469,7 @@
           "device_tested": false
         }
       },
-      "last_verified_at": "2026-11-08T07:21:02Z",
+      "last_verified_at": "2026-11-08T13:35:15Z",
       "rank": 320
     },
     {
@@ -420,19 +490,19 @@
       "feed_audio_type": "audio/mpeg",
       "feed_episode_count": 292,
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
           "http_status": 206,
           "content_type": "audio/mpeg",
           "sample_bytes": 4096,
-          "range": "bytes 1048576-1052671/15215064",
+          "range": "bytes 1048576-1052671/14928346",
           "transport_only": true,
           "device_tested": false
         }
       },
-      "last_verified_at": "2026-11-08T07:21:02Z",
+      "last_verified_at": "2026-11-08T13:35:15Z",
       "rank": 520
     },
     {
@@ -453,7 +523,7 @@
       "feed_audio_type": "audio/mp4",
       "feed_episode_count": 1000,
       "verification": {
-        "checked_at": "2026-11-08T07:21:02Z",
+        "checked_at": "2026-11-08T13:35:15Z",
         "rss_http_status": 200,
         "guid_present": true,
         "audio": {
@@ -465,7 +535,7 @@
           "device_tested": false
         }
       },
-      "last_verified_at": "2026-11-08T07:21:02Z",
+      "last_verified_at": "2026-11-08T13:35:15Z",
       "rank": 700
     }
   ],
