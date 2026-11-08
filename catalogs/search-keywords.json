@@ -1,0 +1,164 @@
+{
+  "schema_version": 1,
+  "kind": "podcast-search-keywords",
+  "revision": 1,
+  "updated_at": "2026-11-08T17:28:40Z",
+  "groups": [
+    {
+      "id": "learning",
+      "name": "学习成长",
+      "terms": [
+        {
+          "label": "英语听力",
+          "query": "English learning"
+        },
+        {
+          "label": "英语口语",
+          "query": "英语口语"
+        },
+        {
+          "label": "科学知识",
+          "query": "科学"
+        },
+        {
+          "label": "读书学习",
+          "query": "读书"
+        },
+        {
+          "label": "学习方法",
+          "query": "学习方法"
+        },
+        {
+          "label": "个人成长",
+          "query": "个人成长"
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "name": "经济商业",
+      "terms": [
+        {
+          "label": "经济",
+          "query": "经济"
+        },
+        {
+          "label": "商业",
+          "query": "商业"
+        },
+        {
+          "label": "投资",
+          "query": "投资"
+        },
+        {
+          "label": "商业访谈",
+          "query": "商业访谈"
+        },
+        {
+          "label": "创业",
+          "query": "创业"
+        },
+        {
+          "label": "职场",
+          "query": "职场"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "科技与设计",
+      "terms": [
+        {
+          "label": "科技",
+          "query": "科技"
+        },
+        {
+          "label": "人工智能",
+          "query": "人工智能"
+        },
+        {
+          "label": "编程",
+          "query": "编程"
+        },
+        {
+          "label": "产品设计",
+          "query": "产品设计"
+        },
+        {
+          "label": "开源",
+          "query": "开源"
+        }
+      ]
+    },
+    {
+      "id": "culture",
+      "name": "人文视野",
+      "terms": [
+        {
+          "label": "历史",
+          "query": "历史"
+        },
+        {
+          "label": "文学",
+          "query": "文学"
+        },
+        {
+          "label": "哲学",
+          "query": "哲学"
+        },
+        {
+          "label": "艺术",
+          "query": "艺术"
+        },
+        {
+          "label": "人物访谈",
+          "query": "人物访谈"
+        }
+      ]
+    },
+    {
+      "id": "life",
+      "name": "生活与健康",
+      "terms": [
+        {
+          "label": "心理学",
+          "query": "心理学"
+        },
+        {
+          "label": "健康",
+          "query": "健康"
+        },
+        {
+          "label": "运动",
+          "query": "运动"
+        },
+        {
+          "label": "生活方式",
+          "query": "生活方式"
+        }
+      ]
+    },
+    {
+      "id": "leisure",
+      "name": "休闲娱乐",
+      "terms": [
+        {
+          "label": "故事",
+          "query": "故事"
+        },
+        {
+          "label": "电影",
+          "query": "电影"
+        },
+        {
+          "label": "游戏",
+          "query": "游戏"
+        },
+        {
+          "label": "音乐",
+          "query": "音乐"
+        }
+      ]
+    }
+  ]
+}

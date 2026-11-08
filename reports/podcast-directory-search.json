@@ -1,0 +1,34 @@
+{
+  "scope": "Host production search/RSS/storage service; host player dispatch/resume adapter, not Switch playback",
+  "results": [
+    {
+      "channel": "Freakonomics Radio",
+      "channel_id": "custom-3ebb92afc87a0d5a",
+      "episodes": 947,
+      "feed_url": "https://feeds.simplecast.com/Y8lFbOT4",
+      "first_audio_type": "audio/mpeg",
+      "hardware_tested": false,
+      "playback_dispatch_verified": true,
+      "provider": "Apple Podcasts",
+      "query": "Freakonomics Radio",
+      "results": 9,
+      "resume_ms": 30000,
+      "subscription_verified": true
+    },
+    {
+      "channel": "读库立体声",
+      "channel_id": "rss-7aa57bbddb1ff4a0",
+      "episodes": 142,
+      "feed_url": "https://feed.xyzfm.space/rfmgh49cg8be",
+      "first_audio_type": "audio/mp4",
+      "hardware_tested": false,
+      "playback_dispatch_verified": true,
+      "provider": "Apple Podcasts",
+      "query": "读库立体声",
+      "results": 1,
+      "resume_ms": 30000,
+      "subscription_verified": true
+    }
+  ],
+  "passed": true
+}

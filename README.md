@@ -39,3 +39,11 @@ Switch 客户端已接入此目录，播客页面可刷新目录、订阅 RSS、
 ## 展示参考
 
 频道页参考 Pocket Casts 的节目简介、单集筛选和操作分层，以及 AntennaPod 的继续收听、新单集与订阅分区。具体 Switch 布局见 docs/switch-channel-design.md。
+
+## 公共目录搜索与推荐关键词
+
+Switch 播客新增“搜索更多”：通过 Apple 公共索引找到发布者 RSS，之后直接从发布者加载单集，复用订阅、在线播放、下载和续播。无需逐个维护可搜索的节目清单。117 个精选频道仍保留。Podcast Index 适配器需要本项目自己的开发者密钥，未配置时默认使用 Apple，不借用其他应用密钥。
+
+`catalogs/search-keywords.json` 管理推荐主题及查询词，分组顺序可更新，不是热搜统计。目前6组30词。`catalog.json` 的可选 `search_keywords` 条目包含字节数与 SHA256；客户端走 GitHub 加速与直连回退，格式或校验失败继续使用已保存/内置关键词。旧客户端忽略新增条目。推荐词只影响搜索文本，不能改写 API 地址。个人最近10次成功搜索留在设备，可以清空，不上传到本仓库。
+
+只修改关键词时执行 `python tools/check_catalogs.py --write --manifest-only`；此方式刷新清单哈希，不重复访问未修改的117个RSS。主机端搜索到发布者RSS、订阅、播放器入口和进度保存的检查记录见 `reports/podcast-directory-search.json`；播放器为适配器，不能替代Switch解码验收。

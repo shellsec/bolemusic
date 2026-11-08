@@ -65,9 +65,10 @@ def station(row):
 def write(path,value):
     path.write_text(json.dumps(value,ensure_ascii=False,indent=2)+chr(10),encoding="utf-8")
 def main():
-    parser=argparse.ArgumentParser();parser.add_argument("--write",action="store_true");args=parser.parse_args()
+    parser=argparse.ArgumentParser();parser.add_argument("--write",action="store_true");parser.add_argument("--manifest-only",action="store_true",help="Refresh metadata hashes without probing unchanged audio catalogs");args=parser.parse_args()
     report={"checked_at":STAMP,"scope":"RSS XML and bounded HTTP audio samples; no full decoding or Switch device certification","podcasts":[],"radio":[]}
     for filename,key,checker in (("podcasts","channels",podcast),("radio","stations",station)):
+        if args.manifest_only:continue
         path=ROOT/"catalogs"/(filename+".json");doc=json.loads(path.read_text(encoding="utf-8"))
         ids=[x["id"] for x in doc[key]]
         if len(ids)!=len(set(ids)):raise ValueError("duplicate IDs")
@@ -77,12 +78,25 @@ def main():
             doc[key]=rows;doc["updated_at"]=STAMP;doc["revision"]=int(doc.get("revision",0))+1;write(path,doc)
         print(filename,len(rows),"reachable",sum(r["availability"]=="reachable" for r in rows))
     if args.write:
-        write(ROOT/"health.json",report)
+        if not args.manifest_only:write(ROOT/"health.json",report)
         manifest={"schema_version":1,"kind":"bolemusic-content","revision":1,"updated_at":STAMP,"catalogs":{},"delivery":{"primary":"https://gh-proxy.com/https://raw.githubusercontent.com/shellsec/bolemusic/master/catalog.json","fallback":"https://raw.githubusercontent.com/shellsec/bolemusic/master/catalog.json","max_catalog_bytes":2097152,"keep_last_good":True,"refresh_hours":24},"merge_policy":{"stable_ids":True,"preserve_user_subscriptions":True,"preserve_favorites":True,"preserve_progress":True,"preserve_downloads":True}}
         prior=ROOT/"catalog.json"
         manifest["revision"]=int(json.loads(prior.read_text(encoding="utf-8")).get("revision",0))+1 if prior.exists() else 1
-        for name in ("podcasts","radio"):
+        keyword_path=ROOT/"catalogs/search-keywords.json"
+        names=[("podcasts","podcasts"),("radio","radio")]
+        if keyword_path.exists():
+            words=json.loads(keyword_path.read_text(encoding="utf-8"));assert keyword_path.stat().st_size<=65536 and words["schema_version"]==1 and words["kind"]=="podcast-search-keywords"
+            assert 0<len(words["groups"])<=16
+            terms=[]
+            for group in words["groups"]:
+                assert 0<len(group["name"].encode())<=96 and len(group["terms"])<=32
+                for item in group["terms"]:
+                    assert 0<len(item["label"].encode())<=128 and 0<len(item["query"].strip().encode())<=384 and "\0" not in item["query"]
+                    terms.append(item["query"])
+            assert 0<len(set(terms))<=100
+            names.append(("search_keywords","search-keywords"))
+        for key,name in names:
             path=ROOT/"catalogs"/(name+".json");raw="https://raw.githubusercontent.com/shellsec/bolemusic/master/catalogs/"+name+".json"
-            manifest["catalogs"][name]={"url":raw,"accelerated_url":"https://gh-proxy.com/"+raw,"sha256":hashlib.sha256(path.read_bytes()).hexdigest(),"bytes":path.stat().st_size}
+            manifest["catalogs"][key]={"url":raw,"accelerated_url":"https://gh-proxy.com/"+raw,"sha256":hashlib.sha256(path.read_bytes()).hexdigest(),"bytes":path.stat().st_size}
         write(ROOT/"catalog.json",manifest)
 if __name__=="__main__":main()
