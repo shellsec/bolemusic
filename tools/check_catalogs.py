@@ -67,11 +67,13 @@ def main():
         with concurrent.futures.ThreadPoolExecutor(max_workers=6) as pool:rows=list(pool.map(checker,doc[key]))
         report["podcasts" if filename=="podcasts" else "radio"]=[{"id":r["id"],"availability":r["availability"],"verification":r["verification"]} for r in rows]
         if args.write:
-            doc[key]=rows;doc["updated_at"]=STAMP;write(path,doc)
+            doc[key]=rows;doc["updated_at"]=STAMP;doc["revision"]=int(doc.get("revision",0))+1;write(path,doc)
         print(filename,len(rows),"reachable",sum(r["availability"]=="reachable" for r in rows))
     if args.write:
         write(ROOT/"health.json",report)
         manifest={"schema_version":1,"kind":"bolemusic-content","revision":1,"updated_at":STAMP,"catalogs":{},"delivery":{"primary":"https://gh-proxy.com/https://raw.githubusercontent.com/shellsec/bolemusic/master/catalog.json","fallback":"https://raw.githubusercontent.com/shellsec/bolemusic/master/catalog.json","max_catalog_bytes":2097152,"keep_last_good":True,"refresh_hours":24},"merge_policy":{"stable_ids":True,"preserve_user_subscriptions":True,"preserve_favorites":True,"preserve_progress":True,"preserve_downloads":True}}
+        prior=ROOT/"catalog.json"
+        manifest["revision"]=int(json.loads(prior.read_text(encoding="utf-8")).get("revision",0))+1 if prior.exists() else 1
         for name in ("podcasts","radio"):
             path=ROOT/"catalogs"/(name+".json");raw="https://raw.githubusercontent.com/shellsec/bolemusic/master/catalogs/"+name+".json"
             manifest["catalogs"][name]={"url":raw,"accelerated_url":"https://gh-proxy.com/"+raw,"sha256":hashlib.sha256(path.read_bytes()).hexdigest(),"bytes":path.stat().st_size}
