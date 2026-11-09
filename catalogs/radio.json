@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "kind": "radio",
-  "revision": 3,
-  "updated_at": "2026-11-08T16:58:15Z",
+  "revision": 4,
+  "updated_at": "2026-11-09T05:26:47+00:00",
   "discovery": {
     "provider": "radio-browser",
     "discovery_host": "all.api.radio-browser.info",
@@ -897,6 +897,486 @@
           }
         ],
         "transport_only": true,
+        "device_tested": false
+      }
+    },
+    {
+      "id": "qtfm-336",
+      "name": "北京交通广播",
+      "homepage": "https://m.qingting.fm/channels/336/",
+      "streams": [
+        {
+          "url": "https://lhttp.qingting.fm/live/336/64k.mp3",
+          "codec": "MP3"
+        }
+      ],
+      "categories": [
+        "traffic"
+      ],
+      "languages": [
+        "zh"
+      ],
+      "country_code": "CN",
+      "description": "北京路况与出行服务",
+      "provenance": "public-qingting-live-channel",
+      "enabled": true,
+      "availability": "reachable",
+      "last_verified_at": "2026-11-09T05:26:47+00:00",
+      "verification": {
+        "checked_at": "2026-11-09T05:26:47+00:00",
+        "streams": [
+          {
+            "url": "https://lhttp.qingting.fm/live/336/64k.mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 42000,
+            "decoded_seconds": 6.0,
+            "production_live_bytes": 65796,
+            "device_tested": false
+          }
+        ],
+        "transport_only": false,
+        "host_decoded": true,
+        "device_tested": false
+      }
+    },
+    {
+      "id": "qtfm-266",
+      "name": "上海交通广播",
+      "homepage": "https://m.qingting.fm/channels/266/",
+      "streams": [
+        {
+          "url": "https://lhttp.qingting.fm/live/266/64k.mp3",
+          "codec": "MP3"
+        }
+      ],
+      "categories": [
+        "traffic"
+      ],
+      "languages": [
+        "zh"
+      ],
+      "country_code": "CN",
+      "description": "上海路况、交通资讯与应急服务",
+      "provenance": "public-qingting-live-channel",
+      "enabled": true,
+      "availability": "reachable",
+      "last_verified_at": "2026-11-09T05:26:47+00:00",
+      "verification": {
+        "checked_at": "2026-11-09T05:26:47+00:00",
+        "streams": [
+          {
+            "url": "https://lhttp.qingting.fm/live/266/64k.mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 42000,
+            "decoded_seconds": 6.0,
+            "production_live_bytes": 65795,
+            "device_tested": false
+          }
+        ],
+        "transport_only": false,
+        "host_decoded": true,
+        "device_tested": false
+      }
+    },
+    {
+      "id": "qtfm-4054",
+      "name": "江苏交通广播",
+      "homepage": "https://m.qingting.fm/channels/4054/",
+      "streams": [
+        {
+          "url": "https://lhttp.qingting.fm/live/4054/64k.mp3",
+          "codec": "MP3"
+        }
+      ],
+      "categories": [
+        "traffic"
+      ],
+      "languages": [
+        "zh"
+      ],
+      "country_code": "CN",
+      "description": "江苏交通资讯、出行与汽车节目",
+      "provenance": "public-qingting-live-channel",
+      "enabled": true,
+      "availability": "reachable",
+      "last_verified_at": "2026-11-09T05:26:47+00:00",
+      "verification": {
+        "checked_at": "2026-11-09T05:26:47+00:00",
+        "streams": [
+          {
+            "url": "https://lhttp.qingting.fm/live/4054/64k.mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 42000,
+            "decoded_seconds": 6.0,
+            "production_live_bytes": 65796,
+            "device_tested": false
+          }
+        ],
+        "transport_only": false,
+        "host_decoded": true,
+        "device_tested": false
+      }
+    },
+    {
+      "id": "qtfm-1262",
+      "name": "广东交通之声",
+      "homepage": "https://m.qingting.fm/channels/1262/",
+      "streams": [
+        {
+          "url": "https://lhttp.qingting.fm/live/1262/64k.mp3",
+          "codec": "MP3"
+        }
+      ],
+      "categories": [
+        "traffic"
+      ],
+      "languages": [
+        "yue"
+      ],
+      "country_code": "CN",
+      "description": "广东交通资讯与粤语节目",
+      "provenance": "public-qingting-live-channel",
+      "enabled": true,
+      "availability": "reachable",
+      "last_verified_at": "2026-11-09T05:26:47+00:00",
+      "verification": {
+        "checked_at": "2026-11-09T05:26:47+00:00",
+        "streams": [
+          {
+            "url": "https://lhttp.qingting.fm/live/1262/64k.mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 42000,
+            "decoded_seconds": 6.0,
+            "production_live_bytes": 65796,
+            "device_tested": false
+          }
+        ],
+        "transport_only": false,
+        "host_decoded": true,
+        "device_tested": false
+      }
+    },
+    {
+      "id": "qtfm-1291",
+      "name": "楚天交通广播",
+      "homepage": "https://m.qingting.fm/channels/1291/",
+      "streams": [
+        {
+          "url": "https://lhttp.qingting.fm/live/1291/64k.mp3",
+          "codec": "MP3"
+        }
+      ],
+      "categories": [
+        "traffic"
+      ],
+      "languages": [
+        "zh"
+      ],
+      "country_code": "CN",
+      "description": "湖北路况与出行服务",
+      "provenance": "public-qingting-live-channel",
+      "enabled": true,
+      "availability": "reachable",
+      "last_verified_at": "2026-11-09T05:26:47+00:00",
+      "verification": {
+        "checked_at": "2026-11-09T05:26:47+00:00",
+        "streams": [
+          {
+            "url": "https://lhttp.qingting.fm/live/1291/64k.mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 42000,
+            "decoded_seconds": 6.0,
+            "production_live_bytes": 65796,
+            "device_tested": false
+          }
+        ],
+        "transport_only": false,
+        "host_decoded": true,
+        "device_tested": false
+      }
+    },
+    {
+      "id": "qtfm-332",
+      "name": "北京音乐广播",
+      "homepage": "https://m.qingting.fm/channels/332/",
+      "streams": [
+        {
+          "url": "https://lhttp.qingting.fm/live/332/64k.mp3",
+          "codec": "MP3"
+        }
+      ],
+      "categories": [
+        "music"
+      ],
+      "languages": [
+        "zh"
+      ],
+      "country_code": "CN",
+      "description": "北京音乐广播 FM97.4，流行音乐",
+      "provenance": "public-qingting-live-channel",
+      "enabled": true,
+      "availability": "reachable",
+      "last_verified_at": "2026-11-09T05:26:47+00:00",
+      "verification": {
+        "checked_at": "2026-11-09T05:26:47+00:00",
+        "streams": [
+          {
+            "url": "https://lhttp.qingting.fm/live/332/64k.mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 42000,
+            "decoded_seconds": 6.0,
+            "production_live_bytes": 65796,
+            "device_tested": false
+          }
+        ],
+        "transport_only": false,
+        "host_decoded": true,
+        "device_tested": false
+      }
+    },
+    {
+      "id": "qtfm-274",
+      "name": "上海动感101",
+      "homepage": "https://m.qingting.fm/channels/274/",
+      "streams": [
+        {
+          "url": "https://lhttp.qingting.fm/live/274/64k.mp3",
+          "codec": "MP3"
+        }
+      ],
+      "categories": [
+        "music"
+      ],
+      "languages": [
+        "zh"
+      ],
+      "country_code": "CN",
+      "description": "上海 FM101.7，流行音乐与东方风云榜",
+      "provenance": "public-qingting-live-channel",
+      "enabled": true,
+      "availability": "reachable",
+      "last_verified_at": "2026-11-09T05:26:47+00:00",
+      "verification": {
+        "checked_at": "2026-11-09T05:26:47+00:00",
+        "streams": [
+          {
+            "url": "https://lhttp.qingting.fm/live/274/64k.mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 42000,
+            "decoded_seconds": 6.0,
+            "production_live_bytes": 65795,
+            "device_tested": false
+          }
+        ],
+        "transport_only": false,
+        "host_decoded": true,
+        "device_tested": false
+      }
+    },
+    {
+      "id": "qtfm-1260",
+      "name": "广东音乐之声",
+      "homepage": "https://m.qingting.fm/channels/1260/",
+      "streams": [
+        {
+          "url": "https://lhttp.qingting.fm/live/1260/64k.mp3",
+          "codec": "MP3"
+        }
+      ],
+      "categories": [
+        "music"
+      ],
+      "languages": [
+        "zh"
+      ],
+      "country_code": "CN",
+      "description": "广东音乐之声 FM99.3，音乐与资讯",
+      "provenance": "public-qingting-live-channel",
+      "enabled": true,
+      "availability": "reachable",
+      "last_verified_at": "2026-11-09T05:26:47+00:00",
+      "verification": {
+        "checked_at": "2026-11-09T05:26:47+00:00",
+        "streams": [
+          {
+            "url": "https://lhttp.qingting.fm/live/1260/64k.mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 42000,
+            "decoded_seconds": 6.0,
+            "production_live_bytes": 65796,
+            "device_tested": false
+          }
+        ],
+        "transport_only": false,
+        "host_decoded": true,
+        "device_tested": false
+      }
+    },
+    {
+      "id": "qtfm-333",
+      "name": "北京文艺广播",
+      "homepage": "https://m.qingting.fm/channels/333/",
+      "streams": [
+        {
+          "url": "https://lhttp.qingting.fm/live/333/64k.mp3",
+          "codec": "MP3"
+        }
+      ],
+      "categories": [
+        "talk"
+      ],
+      "languages": [
+        "zh"
+      ],
+      "country_code": "CN",
+      "description": "文化访谈、曲艺和小说连播",
+      "provenance": "public-qingting-live-channel",
+      "enabled": true,
+      "availability": "reachable",
+      "last_verified_at": "2026-11-09T05:26:47+00:00",
+      "verification": {
+        "checked_at": "2026-11-09T05:26:47+00:00",
+        "streams": [
+          {
+            "url": "https://lhttp.qingting.fm/live/333/64k.mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 42000,
+            "decoded_seconds": 6.0,
+            "production_live_bytes": 65796,
+            "device_tested": false
+          }
+        ],
+        "transport_only": false,
+        "host_decoded": true,
+        "device_tested": false
+      }
+    },
+    {
+      "id": "qtfm-1259",
+      "name": "广东珠江经济电台",
+      "homepage": "https://m.qingting.fm/channels/1259/",
+      "streams": [
+        {
+          "url": "https://lhttp.qingting.fm/live/1259/64k.mp3",
+          "codec": "MP3"
+        }
+      ],
+      "categories": [
+        "talk"
+      ],
+      "languages": [
+        "yue"
+      ],
+      "country_code": "CN",
+      "description": "粤语财经访谈与生活服务",
+      "provenance": "public-qingting-live-channel",
+      "enabled": true,
+      "availability": "reachable",
+      "last_verified_at": "2026-11-09T05:26:47+00:00",
+      "verification": {
+        "checked_at": "2026-11-09T05:26:47+00:00",
+        "streams": [
+          {
+            "url": "https://lhttp.qingting.fm/live/1259/64k.mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 42000,
+            "decoded_seconds": 6.0,
+            "production_live_bytes": 65796,
+            "device_tested": false
+          }
+        ],
+        "transport_only": false,
+        "host_decoded": true,
+        "device_tested": false
+      }
+    },
+    {
+      "id": "qtfm-20013",
+      "name": "江苏文艺广播",
+      "homepage": "https://m.qingting.fm/channels/20013/",
+      "streams": [
+        {
+          "url": "https://lhttp.qingting.fm/live/20013/64k.mp3",
+          "codec": "MP3"
+        }
+      ],
+      "categories": [
+        "talk"
+      ],
+      "languages": [
+        "zh"
+      ],
+      "country_code": "CN",
+      "description": "文化访谈、戏曲曲艺与广播剧",
+      "provenance": "public-qingting-live-channel",
+      "enabled": true,
+      "availability": "reachable",
+      "last_verified_at": "2026-11-09T05:26:47+00:00",
+      "verification": {
+        "checked_at": "2026-11-09T05:26:47+00:00",
+        "streams": [
+          {
+            "url": "https://lhttp.qingting.fm/live/20013/64k.mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 42000,
+            "decoded_seconds": 6.0,
+            "production_live_bytes": 68227,
+            "device_tested": false
+          }
+        ],
+        "transport_only": false,
+        "host_decoded": true,
+        "device_tested": false
+      }
+    },
+    {
+      "id": "qtfm-4518",
+      "name": "浙江之声",
+      "homepage": "https://m.qingting.fm/channels/4518/",
+      "streams": [
+        {
+          "url": "https://lhttp.qingting.fm/live/4518/64k.mp3",
+          "codec": "MP3"
+        }
+      ],
+      "categories": [
+        "talk"
+      ],
+      "languages": [
+        "zh"
+      ],
+      "country_code": "CN",
+      "description": "新闻访谈与生活服务",
+      "provenance": "public-qingting-live-channel",
+      "enabled": true,
+      "availability": "reachable",
+      "last_verified_at": "2026-11-09T05:26:47+00:00",
+      "verification": {
+        "checked_at": "2026-11-09T05:26:47+00:00",
+        "streams": [
+          {
+            "url": "https://lhttp.qingting.fm/live/4518/64k.mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 42000,
+            "decoded_seconds": 6.0,
+            "production_live_bytes": 65796,
+            "device_tested": false
+          }
+        ],
+        "transport_only": false,
+        "host_decoded": true,
         "device_tested": false
       }
     }

@@ -5820,6 +5820,259 @@
         "transport_only": true,
         "device_tested": false
       }
+    },
+    {
+      "id": "qtfm-336",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-09T05:26:47+00:00",
+        "streams": [
+          {
+            "url": "https://lhttp.qingting.fm/live/336/64k.mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 42000,
+            "decoded_seconds": 6.0,
+            "production_live_bytes": 65796,
+            "device_tested": false
+          }
+        ],
+        "transport_only": false,
+        "host_decoded": true,
+        "device_tested": false
+      }
+    },
+    {
+      "id": "qtfm-266",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-09T05:26:47+00:00",
+        "streams": [
+          {
+            "url": "https://lhttp.qingting.fm/live/266/64k.mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 42000,
+            "decoded_seconds": 6.0,
+            "production_live_bytes": 65795,
+            "device_tested": false
+          }
+        ],
+        "transport_only": false,
+        "host_decoded": true,
+        "device_tested": false
+      }
+    },
+    {
+      "id": "qtfm-4054",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-09T05:26:47+00:00",
+        "streams": [
+          {
+            "url": "https://lhttp.qingting.fm/live/4054/64k.mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 42000,
+            "decoded_seconds": 6.0,
+            "production_live_bytes": 65796,
+            "device_tested": false
+          }
+        ],
+        "transport_only": false,
+        "host_decoded": true,
+        "device_tested": false
+      }
+    },
+    {
+      "id": "qtfm-1262",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-09T05:26:47+00:00",
+        "streams": [
+          {
+            "url": "https://lhttp.qingting.fm/live/1262/64k.mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 42000,
+            "decoded_seconds": 6.0,
+            "production_live_bytes": 65796,
+            "device_tested": false
+          }
+        ],
+        "transport_only": false,
+        "host_decoded": true,
+        "device_tested": false
+      }
+    },
+    {
+      "id": "qtfm-1291",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-09T05:26:47+00:00",
+        "streams": [
+          {
+            "url": "https://lhttp.qingting.fm/live/1291/64k.mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 42000,
+            "decoded_seconds": 6.0,
+            "production_live_bytes": 65796,
+            "device_tested": false
+          }
+        ],
+        "transport_only": false,
+        "host_decoded": true,
+        "device_tested": false
+      }
+    },
+    {
+      "id": "qtfm-332",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-09T05:26:47+00:00",
+        "streams": [
+          {
+            "url": "https://lhttp.qingting.fm/live/332/64k.mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 42000,
+            "decoded_seconds": 6.0,
+            "production_live_bytes": 65796,
+            "device_tested": false
+          }
+        ],
+        "transport_only": false,
+        "host_decoded": true,
+        "device_tested": false
+      }
+    },
+    {
+      "id": "qtfm-274",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-09T05:26:47+00:00",
+        "streams": [
+          {
+            "url": "https://lhttp.qingting.fm/live/274/64k.mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 42000,
+            "decoded_seconds": 6.0,
+            "production_live_bytes": 65795,
+            "device_tested": false
+          }
+        ],
+        "transport_only": false,
+        "host_decoded": true,
+        "device_tested": false
+      }
+    },
+    {
+      "id": "qtfm-1260",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-09T05:26:47+00:00",
+        "streams": [
+          {
+            "url": "https://lhttp.qingting.fm/live/1260/64k.mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 42000,
+            "decoded_seconds": 6.0,
+            "production_live_bytes": 65796,
+            "device_tested": false
+          }
+        ],
+        "transport_only": false,
+        "host_decoded": true,
+        "device_tested": false
+      }
+    },
+    {
+      "id": "qtfm-333",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-09T05:26:47+00:00",
+        "streams": [
+          {
+            "url": "https://lhttp.qingting.fm/live/333/64k.mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 42000,
+            "decoded_seconds": 6.0,
+            "production_live_bytes": 65796,
+            "device_tested": false
+          }
+        ],
+        "transport_only": false,
+        "host_decoded": true,
+        "device_tested": false
+      }
+    },
+    {
+      "id": "qtfm-1259",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-09T05:26:47+00:00",
+        "streams": [
+          {
+            "url": "https://lhttp.qingting.fm/live/1259/64k.mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 42000,
+            "decoded_seconds": 6.0,
+            "production_live_bytes": 65796,
+            "device_tested": false
+          }
+        ],
+        "transport_only": false,
+        "host_decoded": true,
+        "device_tested": false
+      }
+    },
+    {
+      "id": "qtfm-20013",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-09T05:26:47+00:00",
+        "streams": [
+          {
+            "url": "https://lhttp.qingting.fm/live/20013/64k.mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 42000,
+            "decoded_seconds": 6.0,
+            "production_live_bytes": 68227,
+            "device_tested": false
+          }
+        ],
+        "transport_only": false,
+        "host_decoded": true,
+        "device_tested": false
+      }
+    },
+    {
+      "id": "qtfm-4518",
+      "availability": "reachable",
+      "verification": {
+        "checked_at": "2026-11-09T05:26:47+00:00",
+        "streams": [
+          {
+            "url": "https://lhttp.qingting.fm/live/4518/64k.mp3",
+            "http_status": 200,
+            "content_type": "audio/mpeg",
+            "sample_bytes": 42000,
+            "decoded_seconds": 6.0,
+            "production_live_bytes": 65796,
+            "device_tested": false
+          }
+        ],
+        "transport_only": false,
+        "host_decoded": true,
+        "device_tested": false
+      }
     }
-  ]
+  ],
+  "radio_expansion_checked_at": "2026-11-09T05:26:47+00:00"
 }
